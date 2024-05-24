@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project>
+  <executable name="dist/default/production/HVCT_121_MASTER.X.production.elf">
+    <memory name="data">
+      <units>bytes</units>
+      <length>32768</length>
+      <used>2828</used>
+      <free>29940</free>
+    </memory>
+    <memory name="program">
+      <units>bytes</units>
+      <length>527616</length>
+      <used>132222</used>
+      <free>395394</free>
+    </memory>
+  </executable>
+</project>

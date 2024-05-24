@@ -1,0 +1,1 @@
+ -c -mcpu=$(MP_PROCESSOR_OPTION)      -g -D__DEBUG -D__MPLAB_DEBUGGER_ICD4=1  -mno-eds-warn  -omf=elf -DXPRJ_default=$(CND_CONF)    $(COMPARISON_BUILD)  -mlarge-code -msmall-data -O0 -msmart-io=1 -Wall -msfr-warn=off   D:\PRODUCTDATA\HVCT\HVCT_121\HVCT_121_MASTER_C_FILES\HVCT_121_MASTER_STANDARD_PERIPHERALS.c

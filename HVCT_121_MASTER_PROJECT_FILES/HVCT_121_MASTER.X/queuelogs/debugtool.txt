@@ -1,0 +1,1021 @@
+936 1716184368270 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 BitSetInfo: Address = 3f4, Mask = 4000, SetVal = 4000, Type = FileRegs
+936 1716184368270 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 BitSetInfo: Values:
+936 1716184368270 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 BitSetInfo: Address = 410, Mask = 4000, SetVal = 4000, Type = FileRegs
+936 1716184368270 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 BitSetInfo: Values:
+936 1716184368270 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 BitSetInfo: Address = 42c, Mask = 4000, SetVal = 4000, Type = FileRegs
+936 1716184368270 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 BitSetInfo: Values:
+936 1716184368270 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 BitSetInfo: Address = 448, Mask = 4000, SetVal = 4000, Type = FileRegs
+936 1716184368270 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 BitSetInfo: Values:
+936 1716184368270 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 BitSetInfo: Address = 464, Mask = 4000, SetVal = 4000, Type = FileRegs
+936 1716184368270 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 BitSetInfo: Values:
+936 1716184368270 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 BitSetInfo: Address = 470, Mask = 4000, SetVal = 4000, Type = FileRegs
+936 1716184368270 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 BitSetInfo: Values:
+936 1716184368270 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 BitSetInfo: Address = 47c, Mask = 4000, SetVal = 4000, Type = FileRegs
+936 1716184368270 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 BitSetInfo: Values:
+936 1716184368270 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 BitSetInfo: Address = 488, Mask = 4000, SetVal = 4000, Type = FileRegs
+936 1716184368270 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 BitSetInfo: Values:
+936 1716184368270 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 BitSetInfo: Address = 49a, Mask = 4000, SetVal = 4000, Type = FileRegs
+936 1716184368270 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 BitSetInfo: Values:
+936 1716184368270 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 BitSetInfo: Address = 4aa, Mask = 4000, SetVal = 4000, Type = FileRegs
+936 1716184368270 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 BitSetInfo: Values:
+936 1716184368270 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 BitSetInfo: Address = 4ba, Mask = 4000, SetVal = 4000, Type = FileRegs
+936 1716184368270 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 BitSetInfo: Values:
+936 1716184368270 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 BitSetInfo: Address = 4c4, Mask = 4000, SetVal = 4000, Type = FileRegs
+936 1716184368270 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 BitSetInfo: Values:
+936 1716184368270 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 BitSetInfo: Address = 540, Mask = 4000, SetVal = 4000, Type = FileRegs
+936 1716184368270 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 BitSetInfo: Values:
+936 1716184368270 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 BitSetInfo: Address = 626, Mask = 20, SetVal = 20, Type = FileRegs
+936 1716184368270 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 BitSetInfo: Values:
+936 1716184368270 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 BitSetInfo: Address = 65c, Mask = 4000, SetVal = 4000, Type = FileRegs
+936 1716184368270 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 BitSetInfo: Values:
+936 1716184368270 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 BitSetInfo: Address = 734, Mask = 4000, SetVal = 4000, Type = FileRegs
+936 1716184368270 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 BitSetInfo: Values:
+936 1716184368270 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 BitSetInfo: Address = fd0036, Mask = 1, SetVal = 1, Type = Emulation
+936 1716184368270 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 Payload End
+936 1716184368270 XXXX 1716184368270, Thread 936: XXXX 1716184368270, Entering Thread 936: Commands::runScriptWithUpload, script name = ReadRAM  
+936 1716184368270 XXXX 1716184368270, Thread 936: XXXX 1716184368270, Entering Thread 936: ToolCommUsb::readTransfer, sideData is 0x28 bytes long, transferDataLength is 0x2 bytes long  
+936 1716184368273 XXXX 1716184368273, Thread 936: XXXX 1716184368273, Exiting Thread 936: ToolCommUsb::readTransfer,  cr.status = 0x0  
+936 1716184368273 XXXX 1716184368273, Thread 936: XXXX 1716184368273, Exiting Thread 936: Commands::runScriptWithUpload  
+936 1716184368273 XXXX 1716184368273, Thread 936: XXXX 1716184368273, Entering Thread 936: Commands::runScriptWithDownload, script name = WriteRAM  
+936 1716184368276 XXXX 1716184368276, Thread 936: XXXX 1716184368276, Exiting Thread 936: Commands::runScriptWithDownload(WriteRAM)  
+936 1716184368276 XXXX 1716184368276, Thread 936: XXXX 1716184368276, Entering Thread 936: Commands::runScriptWithUpload, script name = ReadRAM  
+936 1716184368276 XXXX 1716184368276, Thread 936: XXXX 1716184368276, Entering Thread 936: ToolCommUsb::readTransfer, sideData is 0x28 bytes long, transferDataLength is 0x2 bytes long  
+936 1716184368279 XXXX 1716184368279, Thread 936: XXXX 1716184368279, Exiting Thread 936: ToolCommUsb::readTransfer,  cr.status = 0x0  
+936 1716184368279 XXXX 1716184368279, Thread 936: XXXX 1716184368279, Exiting Thread 936: Commands::runScriptWithUpload  
+936 1716184368279 XXXX 1716184368279, Thread 936: XXXX 1716184368279, Entering Thread 936: Commands::runScriptWithDownload, script name = WriteRAM  
+936 1716184368283 XXXX 1716184368283, Thread 936: XXXX 1716184368283, Exiting Thread 936: Commands::runScriptWithDownload(WriteRAM)  
+936 1716184368283 XXXX 1716184368283, Thread 936: XXXX 1716184368283, Entering Thread 936: Commands::runScriptWithUpload, script name = ReadRAM  
+936 1716184368283 XXXX 1716184368283, Thread 936: XXXX 1716184368283, Entering Thread 936: ToolCommUsb::readTransfer, sideData is 0x28 bytes long, transferDataLength is 0x2 bytes long  
+936 1716184368286 XXXX 1716184368286, Thread 936: XXXX 1716184368286, Exiting Thread 936: ToolCommUsb::readTransfer,  cr.status = 0x0  
+936 1716184368286 XXXX 1716184368286, Thread 936: XXXX 1716184368286, Exiting Thread 936: Commands::runScriptWithUpload  
+936 1716184368286 XXXX 1716184368286, Thread 936: XXXX 1716184368286, Entering Thread 936: Commands::runScriptWithDownload, script name = WriteRAM  
+936 1716184368290 XXXX 1716184368290, Thread 936: XXXX 1716184368290, Exiting Thread 936: Commands::runScriptWithDownload(WriteRAM)  
+936 1716184368290 XXXX 1716184368290, Thread 936: XXXX 1716184368290, Entering Thread 936: Commands::runScriptWithUpload, script name = ReadRAM  
+936 1716184368290 XXXX 1716184368290, Thread 936: XXXX 1716184368290, Entering Thread 936: ToolCommUsb::readTransfer, sideData is 0x28 bytes long, transferDataLength is 0x2 bytes long  
+936 1716184368293 XXXX 1716184368293, Thread 936: XXXX 1716184368293, Exiting Thread 936: ToolCommUsb::readTransfer,  cr.status = 0x0  
+936 1716184368293 XXXX 1716184368293, Thread 936: XXXX 1716184368293, Exiting Thread 936: Commands::runScriptWithUpload  
+936 1716184368293 XXXX 1716184368293, Thread 936: XXXX 1716184368293, Entering Thread 936: Commands::runScriptWithDownload, script name = WriteRAM  
+936 1716184368297 XXXX 1716184368297, Thread 936: XXXX 1716184368297, Exiting Thread 936: Commands::runScriptWithDownload(WriteRAM)  
+936 1716184368297 XXXX 1716184368297, Thread 936: XXXX 1716184368297, Entering Thread 936: Commands::runScriptWithUpload, script name = ReadRAM  
+936 1716184368297 XXXX 1716184368297, Thread 936: XXXX 1716184368297, Entering Thread 936: ToolCommUsb::readTransfer, sideData is 0x28 bytes long, transferDataLength is 0x2 bytes long  
+936 1716184368300 XXXX 1716184368300, Thread 936: XXXX 1716184368300, Exiting Thread 936: ToolCommUsb::readTransfer,  cr.status = 0x0  
+936 1716184368300 XXXX 1716184368300, Thread 936: XXXX 1716184368300, Exiting Thread 936: Commands::runScriptWithUpload  
+936 1716184368300 XXXX 1716184368300, Thread 936: XXXX 1716184368300, Entering Thread 936: Commands::runScriptWithDownload, script name = WriteRAM  
+936 1716184368304 XXXX 1716184368304, Thread 936: XXXX 1716184368304, Exiting Thread 936: Commands::runScriptWithDownload(WriteRAM)  
+936 1716184368304 XXXX 1716184368304, Thread 936: XXXX 1716184368304, Entering Thread 936: Commands::runScriptWithUpload, script name = ReadRAM  
+936 1716184368304 XXXX 1716184368304, Thread 936: XXXX 1716184368304, Entering Thread 936: ToolCommUsb::readTransfer, sideData is 0x28 bytes long, transferDataLength is 0x2 bytes long  
+936 1716184368307 XXXX 1716184368307, Thread 936: XXXX 1716184368307, Exiting Thread 936: ToolCommUsb::readTransfer,  cr.status = 0x0  
+936 1716184368307 XXXX 1716184368307, Thread 936: XXXX 1716184368307, Exiting Thread 936: Commands::runScriptWithUpload  
+936 1716184368307 XXXX 1716184368307, Thread 936: XXXX 1716184368307, Entering Thread 936: Commands::runScriptWithDownload, script name = WriteRAM  
+936 1716184368311 XXXX 1716184368311, Thread 936: XXXX 1716184368311, Exiting Thread 936: Commands::runScriptWithDownload(WriteRAM)  
+936 1716184368311 XXXX 1716184368311, Thread 936: XXXX 1716184368311, Entering Thread 936: Commands::runScriptWithUpload, script name = ReadRAM  
+936 1716184368311 XXXX 1716184368311, Thread 936: XXXX 1716184368311, Entering Thread 936: ToolCommUsb::readTransfer, sideData is 0x28 bytes long, transferDataLength is 0x2 bytes long  
+936 1716184368314 XXXX 1716184368314, Thread 936: XXXX 1716184368314, Exiting Thread 936: ToolCommUsb::readTransfer,  cr.status = 0x0  
+936 1716184368314 XXXX 1716184368314, Thread 936: XXXX 1716184368314, Exiting Thread 936: Commands::runScriptWithUpload  
+936 1716184368314 XXXX 1716184368314, Thread 936: XXXX 1716184368314, Entering Thread 936: Commands::runScriptWithDownload, script name = WriteRAM  
+936 1716184368318 XXXX 1716184368318, Thread 936: XXXX 1716184368318, Exiting Thread 936: Commands::runScriptWithDownload(WriteRAM)  
+936 1716184368318 XXXX 1716184368318, Thread 936: XXXX 1716184368318, Entering Thread 936: Commands::runScriptWithUpload, script name = ReadRAM  
+936 1716184368318 XXXX 1716184368318, Thread 936: XXXX 1716184368318, Entering Thread 936: ToolCommUsb::readTransfer, sideData is 0x28 bytes long, transferDataLength is 0x2 bytes long  
+936 1716184368321 XXXX 1716184368321, Thread 936: XXXX 1716184368321, Exiting Thread 936: ToolCommUsb::readTransfer,  cr.status = 0x0  
+936 1716184368321 XXXX 1716184368321, Thread 936: XXXX 1716184368321, Exiting Thread 936: Commands::runScriptWithUpload  
+936 1716184368321 XXXX 1716184368321, Thread 936: XXXX 1716184368321, Entering Thread 936: Commands::runScriptWithDownload, script name = WriteRAM  
+936 1716184368325 XXXX 1716184368325, Thread 936: XXXX 1716184368325, Exiting Thread 936: Commands::runScriptWithDownload(WriteRAM)  
+936 1716184368325 XXXX 1716184368325, Thread 936: XXXX 1716184368325, Entering Thread 936: Commands::runScriptWithUpload, script name = ReadRAM  
+936 1716184368325 XXXX 1716184368325, Thread 936: XXXX 1716184368325, Entering Thread 936: ToolCommUsb::readTransfer, sideData is 0x28 bytes long, transferDataLength is 0x2 bytes long  
+936 1716184368328 XXXX 1716184368328, Thread 936: XXXX 1716184368328, Exiting Thread 936: ToolCommUsb::readTransfer,  cr.status = 0x0  
+936 1716184368328 XXXX 1716184368328, Thread 936: XXXX 1716184368328, Exiting Thread 936: Commands::runScriptWithUpload  
+936 1716184368328 XXXX 1716184368328, Thread 936: XXXX 1716184368328, Entering Thread 936: Commands::runScriptWithDownload, script name = WriteRAM  
+936 1716184368332 XXXX 1716184368332, Thread 936: XXXX 1716184368332, Exiting Thread 936: Commands::runScriptWithDownload(WriteRAM)  
+936 1716184368332 XXXX 1716184368332, Thread 936: XXXX 1716184368332, Entering Thread 936: Commands::runScriptWithUpload, script name = ReadRAM  
+936 1716184368332 XXXX 1716184368332, Thread 936: XXXX 1716184368332, Entering Thread 936: ToolCommUsb::readTransfer, sideData is 0x28 bytes long, transferDataLength is 0x2 bytes long  
+936 1716184368335 XXXX 1716184368335, Thread 936: XXXX 1716184368335, Exiting Thread 936: ToolCommUsb::readTransfer,  cr.status = 0x0  
+936 1716184368335 XXXX 1716184368335, Thread 936: XXXX 1716184368335, Exiting Thread 936: Commands::runScriptWithUpload  
+936 1716184368335 XXXX 1716184368335, Thread 936: XXXX 1716184368335, Entering Thread 936: Commands::runScriptWithDownload, script name = WriteRAM  
+936 1716184368339 XXXX 1716184368339, Thread 936: XXXX 1716184368339, Exiting Thread 936: Commands::runScriptWithDownload(WriteRAM)  
+936 1716184368339 XXXX 1716184368339, Thread 936: XXXX 1716184368339, Entering Thread 936: Commands::runScriptWithUpload, script name = ReadRAM  
+936 1716184368339 XXXX 1716184368339, Thread 936: XXXX 1716184368339, Entering Thread 936: ToolCommUsb::readTransfer, sideData is 0x28 bytes long, transferDataLength is 0x2 bytes long  
+936 1716184368342 XXXX 1716184368342, Thread 936: XXXX 1716184368342, Exiting Thread 936: ToolCommUsb::readTransfer,  cr.status = 0x0  
+936 1716184368342 XXXX 1716184368342, Thread 936: XXXX 1716184368342, Exiting Thread 936: Commands::runScriptWithUpload  
+936 1716184368342 XXXX 1716184368342, Thread 936: XXXX 1716184368342, Entering Thread 936: Commands::runScriptWithDownload, script name = WriteRAM  
+936 1716184368346 XXXX 1716184368346, Thread 936: XXXX 1716184368346, Exiting Thread 936: Commands::runScriptWithDownload(WriteRAM)  
+936 1716184368346 XXXX 1716184368346, Thread 936: XXXX 1716184368346, Entering Thread 936: Commands::runScriptWithUpload, script name = ReadRAM  
+936 1716184368346 XXXX 1716184368346, Thread 936: XXXX 1716184368346, Entering Thread 936: ToolCommUsb::readTransfer, sideData is 0x28 bytes long, transferDataLength is 0x2 bytes long  
+936 1716184368349 XXXX 1716184368349, Thread 936: XXXX 1716184368349, Exiting Thread 936: ToolCommUsb::readTransfer,  cr.status = 0x0  
+936 1716184368349 XXXX 1716184368349, Thread 936: XXXX 1716184368349, Exiting Thread 936: Commands::runScriptWithUpload  
+936 1716184368349 XXXX 1716184368349, Thread 936: XXXX 1716184368349, Entering Thread 936: Commands::runScriptWithDownload, script name = WriteRAM  
+936 1716184368353 XXXX 1716184368353, Thread 936: XXXX 1716184368353, Exiting Thread 936: Commands::runScriptWithDownload(WriteRAM)  
+936 1716184368353 XXXX 1716184368353, Thread 936: XXXX 1716184368353, Entering Thread 936: Commands::runScriptWithUpload, script name = ReadRAM  
+936 1716184368353 XXXX 1716184368353, Thread 936: XXXX 1716184368353, Entering Thread 936: ToolCommUsb::readTransfer, sideData is 0x28 bytes long, transferDataLength is 0x2 bytes long  
+936 1716184368356 XXXX 1716184368356, Thread 936: XXXX 1716184368356, Exiting Thread 936: ToolCommUsb::readTransfer,  cr.status = 0x0  
+936 1716184368356 XXXX 1716184368356, Thread 936: XXXX 1716184368356, Exiting Thread 936: Commands::runScriptWithUpload  
+936 1716184368356 XXXX 1716184368356, Thread 936: XXXX 1716184368356, Entering Thread 936: Commands::runScriptWithDownload, script name = WriteRAM  
+936 1716184368360 XXXX 1716184368360, Thread 936: XXXX 1716184368360, Exiting Thread 936: Commands::runScriptWithDownload(WriteRAM)  
+936 1716184368360 XXXX 1716184368360, Thread 936: XXXX 1716184368360, Entering Thread 936: Commands::runScriptWithUpload, script name = ReadRAM  
+936 1716184368360 XXXX 1716184368360, Thread 936: XXXX 1716184368360, Entering Thread 936: ToolCommUsb::readTransfer, sideData is 0x28 bytes long, transferDataLength is 0x2 bytes long  
+936 1716184368362 XXXX 1716184368362, Thread 936: XXXX 1716184368362, Exiting Thread 936: ToolCommUsb::readTransfer,  cr.status = 0x0  
+936 1716184368362 XXXX 1716184368362, Thread 936: XXXX 1716184368362, Exiting Thread 936: Commands::runScriptWithUpload  
+936 1716184368362 XXXX 1716184368362, Thread 936: XXXX 1716184368362, Entering Thread 936: Commands::runScriptWithDownload, script name = WriteRAM  
+936 1716184368366 XXXX 1716184368366, Thread 936: XXXX 1716184368366, Exiting Thread 936: Commands::runScriptWithDownload(WriteRAM)  
+936 1716184368366 XXXX 1716184368366, Thread 936: XXXX 1716184368366, Entering Thread 936: Commands::runScriptWithUpload, script name = ReadRAM  
+936 1716184368366 XXXX 1716184368366, Thread 936: XXXX 1716184368366, Entering Thread 936: ToolCommUsb::readTransfer, sideData is 0x28 bytes long, transferDataLength is 0x2 bytes long  
+936 1716184368369 XXXX 1716184368369, Thread 936: XXXX 1716184368369, Exiting Thread 936: ToolCommUsb::readTransfer,  cr.status = 0x0  
+936 1716184368369 XXXX 1716184368369, Thread 936: XXXX 1716184368369, Exiting Thread 936: Commands::runScriptWithUpload  
+936 1716184368369 XXXX 1716184368369, Thread 936: XXXX 1716184368369, Entering Thread 936: Commands::runScriptWithDownload, script name = WriteRAM  
+936 1716184368373 XXXX 1716184368373, Thread 936: XXXX 1716184368373, Exiting Thread 936: Commands::runScriptWithDownload(WriteRAM)  
+936 1716184368374 XXXX 1716184368374, Thread 936: XXXX 1716184368374, Entering Thread 936: Commands::runScriptWithUpload, script name = ReadRAM  
+936 1716184368374 XXXX 1716184368374, Thread 936: XXXX 1716184368374, Entering Thread 936: ToolCommUsb::readTransfer, sideData is 0x28 bytes long, transferDataLength is 0x2 bytes long  
+936 1716184368376 XXXX 1716184368376, Thread 936: XXXX 1716184368376, Exiting Thread 936: ToolCommUsb::readTransfer,  cr.status = 0x0  
+936 1716184368376 XXXX 1716184368376, Thread 936: XXXX 1716184368376, Exiting Thread 936: Commands::runScriptWithUpload  
+936 1716184368377 XXXX 1716184368377, Thread 936: XXXX 1716184368377, Entering Thread 936: Commands::runScriptWithDownload, script name = WriteRAM  
+936 1716184368380 XXXX 1716184368380, Thread 936: XXXX 1716184368380, Exiting Thread 936: Commands::runScriptWithDownload(WriteRAM)  
+936 1716184368380 XXXX 1716184368380, Thread 936: XXXX 1716184368380, Entering Thread 936: Commands::runScriptWithUpload, script name = ReadRAM  
+936 1716184368380 XXXX 1716184368380, Thread 936: XXXX 1716184368380, Entering Thread 936: ToolCommUsb::readTransfer, sideData is 0x28 bytes long, transferDataLength is 0x2 bytes long  
+936 1716184368383 XXXX 1716184368383, Thread 936: XXXX 1716184368383, Exiting Thread 936: ToolCommUsb::readTransfer,  cr.status = 0x0  
+936 1716184368383 XXXX 1716184368383, Thread 936: XXXX 1716184368383, Exiting Thread 936: Commands::runScriptWithUpload  
+936 1716184368383 XXXX 1716184368383, Thread 936: XXXX 1716184368383, Entering Thread 936: Commands::runScriptWithDownload, script name = WriteRAM  
+936 1716184368387 XXXX 1716184368387, Thread 936: XXXX 1716184368387, Exiting Thread 936: Commands::runScriptWithDownload(WriteRAM)  
+936 1716184368387 XXXX 1716184368387, Thread 936: XXXX 1716184368387, Entering Thread 936: Commands::runScriptWithUpload, script name = ReadRAM  
+936 1716184368387 XXXX 1716184368387, Thread 936: XXXX 1716184368387, Entering Thread 936: ToolCommUsb::readTransfer, sideData is 0x28 bytes long, transferDataLength is 0x2 bytes long  
+936 1716184368390 XXXX 1716184368390, Thread 936: XXXX 1716184368390, Exiting Thread 936: ToolCommUsb::readTransfer,  cr.status = 0x0  
+936 1716184368390 XXXX 1716184368390, Thread 936: XXXX 1716184368390, Exiting Thread 936: Commands::runScriptWithUpload  
+936 1716184368390 XXXX 1716184368390, Thread 936: XXXX 1716184368390, Entering Thread 936: Commands::runScriptWithDownload, script name = WriteRAM  
+936 1716184368394 XXXX 1716184368394, Thread 936: XXXX 1716184368394, Exiting Thread 936: Commands::runScriptWithDownload(WriteRAM)  
+936 1716184368394 XXXX 1716184368394, Thread 936: XXXX 1716184368394, Entering Thread 936: Commands::runScriptWithUpload, script name = ReadRAM  
+936 1716184368394 XXXX 1716184368394, Thread 936: XXXX 1716184368394, Entering Thread 936: ToolCommUsb::readTransfer, sideData is 0x28 bytes long, transferDataLength is 0x2 bytes long  
+936 1716184368397 XXXX 1716184368397, Thread 936: XXXX 1716184368397, Exiting Thread 936: ToolCommUsb::readTransfer,  cr.status = 0x0  
+936 1716184368397 XXXX 1716184368397, Thread 936: XXXX 1716184368397, Exiting Thread 936: Commands::runScriptWithUpload  
+936 1716184368397 XXXX 1716184368397, Thread 936: XXXX 1716184368397, Entering Thread 936: Commands::runScriptWithDownload, script name = WriteRAM  
+936 1716184368401 XXXX 1716184368401, Thread 936: XXXX 1716184368401, Exiting Thread 936: Commands::runScriptWithDownload(WriteRAM)  
+936 1716184368401 XXXX 1716184368401, Thread 936: XXXX 1716184368401, Entering Thread 936: Commands::runScriptWithUpload, script name = ReadRAM  
+936 1716184368401 XXXX 1716184368401, Thread 936: XXXX 1716184368401, Entering Thread 936: ToolCommUsb::readTransfer, sideData is 0x28 bytes long, transferDataLength is 0x2 bytes long  
+936 1716184368404 XXXX 1716184368404, Thread 936: XXXX 1716184368404, Exiting Thread 936: ToolCommUsb::readTransfer,  cr.status = 0x0  
+936 1716184368404 XXXX 1716184368404, Thread 936: XXXX 1716184368404, Exiting Thread 936: Commands::runScriptWithUpload  
+936 1716184368404 XXXX 1716184368404, Thread 936: XXXX 1716184368404, Entering Thread 936: Commands::runScriptWithDownload, script name = WriteRAM  
+936 1716184368408 XXXX 1716184368408, Thread 936: XXXX 1716184368408, Exiting Thread 936: Commands::runScriptWithDownload(WriteRAM)  
+936 1716184368408 XXXX 1716184368408, Thread 936: XXXX 1716184368408, Entering Thread 936: Commands::runScriptWithUpload, script name = ReadRAM  
+936 1716184368408 XXXX 1716184368408, Thread 936: XXXX 1716184368408, Entering Thread 936: ToolCommUsb::readTransfer, sideData is 0x28 bytes long, transferDataLength is 0x2 bytes long  
+936 1716184368410 XXXX 1716184368410, Thread 936: XXXX 1716184368410, Exiting Thread 936: ToolCommUsb::readTransfer,  cr.status = 0x0  
+936 1716184368410 XXXX 1716184368410, Thread 936: XXXX 1716184368410, Exiting Thread 936: Commands::runScriptWithUpload  
+936 1716184368410 XXXX 1716184368410, Thread 936: XXXX 1716184368410, Entering Thread 936: Commands::runScriptWithDownload, script name = WriteRAM  
+936 1716184368415 XXXX 1716184368415, Thread 936: XXXX 1716184368415, Exiting Thread 936: Commands::runScriptWithDownload(WriteRAM)  
+936 1716184368415 XXXX 1716184368415, Thread 936: XXXX 1716184368415, Entering Thread 936: Commands::runScriptWithUpload, script name = ReadRAM  
+936 1716184368415 XXXX 1716184368415, Thread 936: XXXX 1716184368415, Entering Thread 936: ToolCommUsb::readTransfer, sideData is 0x28 bytes long, transferDataLength is 0x2 bytes long  
+936 1716184368418 XXXX 1716184368418, Thread 936: XXXX 1716184368418, Exiting Thread 936: ToolCommUsb::readTransfer,  cr.status = 0x0  
+936 1716184368418 XXXX 1716184368418, Thread 936: XXXX 1716184368418, Exiting Thread 936: Commands::runScriptWithUpload  
+936 1716184368418 XXXX 1716184368418, Thread 936: XXXX 1716184368418, Entering Thread 936: Commands::runScriptWithDownload, script name = WriteRAM  
+936 1716184368422 XXXX 1716184368422, Thread 936: XXXX 1716184368422, Exiting Thread 936: Commands::runScriptWithDownload(WriteRAM)  
+936 1716184368422 XXXX 1716184368422, Thread 936: XXXX 1716184368422, Entering Thread 936: Commands::runScriptWithUpload, script name = ReadRAM  
+936 1716184368422 XXXX 1716184368422, Thread 936: XXXX 1716184368422, Entering Thread 936: ToolCommUsb::readTransfer, sideData is 0x28 bytes long, transferDataLength is 0x2 bytes long  
+936 1716184368425 XXXX 1716184368425, Thread 936: XXXX 1716184368425, Exiting Thread 936: ToolCommUsb::readTransfer,  cr.status = 0x0  
+936 1716184368425 XXXX 1716184368425, Thread 936: XXXX 1716184368425, Exiting Thread 936: Commands::runScriptWithUpload  
+936 1716184368425 XXXX 1716184368425, Thread 936: XXXX 1716184368425, Entering Thread 936: Commands::runScriptWithDownload, script name = WriteRAM  
+936 1716184368429 XXXX 1716184368429, Thread 936: XXXX 1716184368429, Exiting Thread 936: Commands::runScriptWithDownload(WriteRAM)  
+936 1716184368429 XXXX 1716184368429, Thread 936: XXXX 1716184368429, Entering Thread 936: Commands::runScriptWithUpload, script name = ReadRAM  
+936 1716184368429 XXXX 1716184368429, Thread 936: XXXX 1716184368429, Entering Thread 936: ToolCommUsb::readTransfer, sideData is 0x28 bytes long, transferDataLength is 0x2 bytes long  
+936 1716184368432 XXXX 1716184368432, Thread 936: XXXX 1716184368432, Exiting Thread 936: ToolCommUsb::readTransfer,  cr.status = 0x0  
+936 1716184368432 XXXX 1716184368432, Thread 936: XXXX 1716184368432, Exiting Thread 936: Commands::runScriptWithUpload  
+936 1716184368432 XXXX 1716184368432, Thread 936: XXXX 1716184368432, Entering Thread 936: Commands::runScriptWithDownload, script name = WriteRAM  
+936 1716184368436 XXXX 1716184368436, Thread 936: XXXX 1716184368436, Exiting Thread 936: Commands::runScriptWithDownload(WriteRAM)  
+936 1716184368436 XXXX 1716184368436, Thread 936: XXXX 1716184368436, Entering Thread 936: Commands::runScriptWithUpload, script name = ReadRAM  
+936 1716184368436 XXXX 1716184368436, Thread 936: XXXX 1716184368436, Entering Thread 936: ToolCommUsb::readTransfer, sideData is 0x28 bytes long, transferDataLength is 0x2 bytes long  
+936 1716184368439 XXXX 1716184368439, Thread 936: XXXX 1716184368439, Exiting Thread 936: ToolCommUsb::readTransfer,  cr.status = 0x0  
+936 1716184368439 XXXX 1716184368439, Thread 936: XXXX 1716184368439, Exiting Thread 936: Commands::runScriptWithUpload  
+936 1716184368439 XXXX 1716184368439, Thread 936: XXXX 1716184368439, Entering Thread 936: Commands::runScriptWithDownload, script name = WriteRAM  
+936 1716184368443 XXXX 1716184368443, Thread 936: XXXX 1716184368443, Exiting Thread 936: Commands::runScriptWithDownload(WriteRAM)  
+936 1716184368443 XXXX 1716184368443, Thread 936: XXXX 1716184368443, Entering Thread 936: Commands::runScriptWithUpload, script name = ReadRAM  
+936 1716184368443 XXXX 1716184368443, Thread 936: XXXX 1716184368443, Entering Thread 936: ToolCommUsb::readTransfer, sideData is 0x28 bytes long, transferDataLength is 0x2 bytes long  
+936 1716184368446 XXXX 1716184368446, Thread 936: XXXX 1716184368446, Exiting Thread 936: ToolCommUsb::readTransfer,  cr.status = 0x0  
+936 1716184368446 XXXX 1716184368446, Thread 936: XXXX 1716184368446, Exiting Thread 936: Commands::runScriptWithUpload  
+936 1716184368446 XXXX 1716184368446, Thread 936: XXXX 1716184368446, Entering Thread 936: Commands::runScriptWithDownload, script name = WriteRAM  
+936 1716184368450 XXXX 1716184368450, Thread 936: XXXX 1716184368450, Exiting Thread 936: Commands::runScriptWithDownload(WriteRAM)  
+936 1716184368450 XXXX 1716184368450, Thread 936: XXXX 1716184368450, Entering Thread 936: Commands::runScriptWithUpload, script name = ReadRAM  
+936 1716184368450 XXXX 1716184368450, Thread 936: XXXX 1716184368450, Entering Thread 936: ToolCommUsb::readTransfer, sideData is 0x28 bytes long, transferDataLength is 0x2 bytes long  
+936 1716184368453 XXXX 1716184368453, Thread 936: XXXX 1716184368453, Exiting Thread 936: ToolCommUsb::readTransfer,  cr.status = 0x0  
+936 1716184368453 XXXX 1716184368453, Thread 936: XXXX 1716184368453, Exiting Thread 936: Commands::runScriptWithUpload  
+936 1716184368453 XXXX 1716184368453, Thread 936: XXXX 1716184368453, Entering Thread 936: Commands::runScriptWithDownload, script name = WriteRAM  
+936 1716184368457 XXXX 1716184368457, Thread 936: XXXX 1716184368457, Exiting Thread 936: Commands::runScriptWithDownload(WriteRAM)  
+936 1716184368457 XXXX 1716184368457, Thread 936: XXXX 1716184368457, Entering Thread 936: Commands::runScriptWithUpload, script name = ReadRAM  
+936 1716184368457 XXXX 1716184368457, Thread 936: XXXX 1716184368457, Entering Thread 936: ToolCommUsb::readTransfer, sideData is 0x28 bytes long, transferDataLength is 0x2 bytes long  
+936 1716184368460 XXXX 1716184368460, Thread 936: XXXX 1716184368460, Exiting Thread 936: ToolCommUsb::readTransfer,  cr.status = 0x0  
+936 1716184368460 XXXX 1716184368460, Thread 936: XXXX 1716184368460, Exiting Thread 936: Commands::runScriptWithUpload  
+936 1716184368460 XXXX 1716184368460, Thread 936: XXXX 1716184368460, Entering Thread 936: Commands::runScriptWithDownload, script name = WriteRAM  
+936 1716184368464 XXXX 1716184368464, Thread 936: XXXX 1716184368464, Exiting Thread 936: Commands::runScriptWithDownload(WriteRAM)  
+936 1716184368464 XXXX 1716184368464, Thread 936: XXXX 1716184368464, Entering Thread 936: Commands::runScriptWithUpload, script name = ReadRAM  
+936 1716184368464 XXXX 1716184368464, Thread 936: XXXX 1716184368464, Entering Thread 936: ToolCommUsb::readTransfer, sideData is 0x28 bytes long, transferDataLength is 0x2 bytes long  
+936 1716184368466 XXXX 1716184368466, Thread 936: XXXX 1716184368466, Exiting Thread 936: ToolCommUsb::readTransfer,  cr.status = 0x0  
+936 1716184368466 XXXX 1716184368466, Thread 936: XXXX 1716184368466, Exiting Thread 936: Commands::runScriptWithUpload  
+936 1716184368466 XXXX 1716184368466, Thread 936: XXXX 1716184368466, Entering Thread 936: Commands::runScriptWithDownload, script name = WriteRAM  
+936 1716184368470 XXXX 1716184368470, Thread 936: XXXX 1716184368470, Exiting Thread 936: Commands::runScriptWithDownload(WriteRAM)  
+936 1716184368470 XXXX 1716184368470, Thread 936: XXXX 1716184368470, Entering Thread 936: Commands::runScriptWithUpload, script name = ReadRAM  
+936 1716184368470 XXXX 1716184368470, Thread 936: XXXX 1716184368470, Entering Thread 936: ToolCommUsb::readTransfer, sideData is 0x28 bytes long, transferDataLength is 0x2 bytes long  
+936 1716184368473 XXXX 1716184368473, Thread 936: XXXX 1716184368473, Exiting Thread 936: ToolCommUsb::readTransfer,  cr.status = 0x0  
+936 1716184368473 XXXX 1716184368473, Thread 936: XXXX 1716184368473, Exiting Thread 936: Commands::runScriptWithUpload  
+936 1716184368473 XXXX 1716184368473, Thread 936: XXXX 1716184368473, Entering Thread 936: Commands::runScriptWithDownload, script name = WriteRAM  
+936 1716184368477 XXXX 1716184368477, Thread 936: XXXX 1716184368477, Exiting Thread 936: Commands::runScriptWithDownload(WriteRAM)  
+936 1716184368477 XXXX 1716184368477, Thread 936: XXXX 1716184368477, Entering Thread 936: Commands::runScriptWithUpload, script name = ReadRAM  
+936 1716184368477 XXXX 1716184368477, Thread 936: XXXX 1716184368477, Entering Thread 936: ToolCommUsb::readTransfer, sideData is 0x28 bytes long, transferDataLength is 0x2 bytes long  
+936 1716184368480 XXXX 1716184368480, Thread 936: XXXX 1716184368480, Exiting Thread 936: ToolCommUsb::readTransfer,  cr.status = 0x0  
+936 1716184368480 XXXX 1716184368480, Thread 936: XXXX 1716184368480, Exiting Thread 936: Commands::runScriptWithUpload  
+936 1716184368480 XXXX 1716184368480, Thread 936: XXXX 1716184368480, Entering Thread 936: Commands::runScriptWithDownload, script name = WriteRAM  
+936 1716184368484 XXXX 1716184368484, Thread 936: XXXX 1716184368484, Exiting Thread 936: Commands::runScriptWithDownload(WriteRAM)  
+936 1716184368484 XXXX 1716184368484, Thread 936: XXXX 1716184368484, Entering Thread 936: Commands::runScriptWithUpload, script name = ReadRAM  
+936 1716184368484 XXXX 1716184368484, Thread 936: XXXX 1716184368484, Entering Thread 936: ToolCommUsb::readTransfer, sideData is 0x28 bytes long, transferDataLength is 0x2 bytes long  
+936 1716184368487 XXXX 1716184368487, Thread 936: XXXX 1716184368487, Exiting Thread 936: ToolCommUsb::readTransfer,  cr.status = 0x0  
+936 1716184368487 XXXX 1716184368487, Thread 936: XXXX 1716184368487, Exiting Thread 936: Commands::runScriptWithUpload  
+936 1716184368487 XXXX 1716184368487, Thread 936: XXXX 1716184368487, Entering Thread 936: Commands::runScriptWithDownload, script name = WriteRAM  
+936 1716184368491 XXXX 1716184368491, Thread 936: XXXX 1716184368491, Exiting Thread 936: Commands::runScriptWithDownload(WriteRAM)  
+936 1716184368491 XXXX 1716184368491, Thread 936: XXXX 1716184368491, Entering Thread 936: Commands::runScriptWithUpload, script name = ReadRAM  
+936 1716184368491 XXXX 1716184368491, Thread 936: XXXX 1716184368491, Entering Thread 936: ToolCommUsb::readTransfer, sideData is 0x28 bytes long, transferDataLength is 0x2 bytes long  
+936 1716184368494 XXXX 1716184368494, Thread 936: XXXX 1716184368494, Exiting Thread 936: ToolCommUsb::readTransfer,  cr.status = 0x0  
+936 1716184368494 XXXX 1716184368494, Thread 936: XXXX 1716184368494, Exiting Thread 936: Commands::runScriptWithUpload  
+936 1716184368494 XXXX 1716184368494, Thread 936: XXXX 1716184368494, Entering Thread 936: Commands::runScriptWithDownload, script name = WriteRAM  
+936 1716184368498 XXXX 1716184368498, Thread 936: XXXX 1716184368498, Exiting Thread 936: Commands::runScriptWithDownload(WriteRAM)  
+936 1716184368498 XXXX 1716184368498, Thread 936: XXXX 1716184368498, Entering Thread 936: Commands::runScriptWithUpload, script name = ReadRAM  
+936 1716184368498 XXXX 1716184368498, Thread 936: XXXX 1716184368498, Entering Thread 936: ToolCommUsb::readTransfer, sideData is 0x28 bytes long, transferDataLength is 0x2 bytes long  
+936 1716184368501 XXXX 1716184368501, Thread 936: XXXX 1716184368501, Exiting Thread 936: ToolCommUsb::readTransfer,  cr.status = 0x0  
+936 1716184368501 XXXX 1716184368501, Thread 936: XXXX 1716184368501, Exiting Thread 936: Commands::runScriptWithUpload  
+936 1716184368501 XXXX 1716184368501, Thread 936: XXXX 1716184368501, Entering Thread 936: Commands::runScriptWithDownload, script name = WriteRAM  
+936 1716184368505 XXXX 1716184368505, Thread 936: XXXX 1716184368505, Exiting Thread 936: Commands::runScriptWithDownload(WriteRAM)  
+936 1716184368505 XXXX 1716184368505, Thread 936: XXXX 1716184368505, Entering Thread 936: Commands::runScriptWithUpload, script name = ReadRAM  
+936 1716184368505 XXXX 1716184368505, Thread 936: XXXX 1716184368505, Entering Thread 936: ToolCommUsb::readTransfer, sideData is 0x28 bytes long, transferDataLength is 0x2 bytes long  
+936 1716184368508 XXXX 1716184368508, Thread 936: XXXX 1716184368508, Exiting Thread 936: ToolCommUsb::readTransfer,  cr.status = 0x0  
+936 1716184368508 XXXX 1716184368508, Thread 936: XXXX 1716184368508, Exiting Thread 936: Commands::runScriptWithUpload  
+936 1716184368508 XXXX 1716184368508, Thread 936: XXXX 1716184368508, Entering Thread 936: Commands::runScriptWithDownload, script name = WriteRAM  
+936 1716184368512 XXXX 1716184368512, Thread 936: XXXX 1716184368512, Exiting Thread 936: Commands::runScriptWithDownload(WriteRAM)  
+936 1716184368512 XXXX 1716184368512, Thread 936: XXXX 1716184368512, Entering Thread 936: Commands::runScriptWithUpload, script name = ReadRAM  
+936 1716184368512 XXXX 1716184368512, Thread 936: XXXX 1716184368512, Entering Thread 936: ToolCommUsb::readTransfer, sideData is 0x28 bytes long, transferDataLength is 0x2 bytes long  
+936 1716184368515 XXXX 1716184368515, Thread 936: XXXX 1716184368515, Exiting Thread 936: ToolCommUsb::readTransfer,  cr.status = 0x0  
+936 1716184368515 XXXX 1716184368515, Thread 936: XXXX 1716184368515, Exiting Thread 936: Commands::runScriptWithUpload  
+936 1716184368515 XXXX 1716184368515, Thread 936: XXXX 1716184368515, Entering Thread 936: Commands::runScriptWithDownload, script name = WriteRAM  
+936 1716184368519 XXXX 1716184368519, Thread 936: XXXX 1716184368519, Exiting Thread 936: Commands::runScriptWithDownload(WriteRAM)  
+936 1716184368519 XXXX 1716184368519, Thread 936: XXXX 1716184368519, Entering Thread 936: Commands::runScriptWithUpload, script name = ReadRAM  
+936 1716184368519 XXXX 1716184368519, Thread 936: XXXX 1716184368519, Entering Thread 936: ToolCommUsb::readTransfer, sideData is 0x28 bytes long, transferDataLength is 0x2 bytes long  
+936 1716184368522 XXXX 1716184368522, Thread 936: XXXX 1716184368522, Exiting Thread 936: ToolCommUsb::readTransfer,  cr.status = 0x0  
+936 1716184368522 XXXX 1716184368522, Thread 936: XXXX 1716184368522, Exiting Thread 936: Commands::runScriptWithUpload  
+936 1716184368522 XXXX 1716184368522, Thread 936: XXXX 1716184368522, Entering Thread 936: Commands::runScriptWithDownload, script name = WriteRAM  
+936 1716184368526 XXXX 1716184368526, Thread 936: XXXX 1716184368526, Exiting Thread 936: Commands::runScriptWithDownload(WriteRAM)  
+936 1716184368526 XXXX 1716184368526, Thread 936: XXXX 1716184368526, Entering Thread 936: Commands::runScriptWithUpload, script name = ReadRAM  
+936 1716184368526 XXXX 1716184368526, Thread 936: XXXX 1716184368526, Entering Thread 936: ToolCommUsb::readTransfer, sideData is 0x28 bytes long, transferDataLength is 0x2 bytes long  
+936 1716184368529 XXXX 1716184368529, Thread 936: XXXX 1716184368529, Exiting Thread 936: ToolCommUsb::readTransfer,  cr.status = 0x0  
+936 1716184368529 XXXX 1716184368529, Thread 936: XXXX 1716184368529, Exiting Thread 936: Commands::runScriptWithUpload  
+936 1716184368529 XXXX 1716184368529, Thread 936: XXXX 1716184368529, Entering Thread 936: Commands::runScriptWithDownload, script name = WriteRAM  
+936 1716184368533 XXXX 1716184368533, Thread 936: XXXX 1716184368533, Exiting Thread 936: Commands::runScriptWithDownload(WriteRAM)  
+936 1716184368533 XXXX 1716184368533, Thread 936: XXXX 1716184368533, Entering Thread 936: Commands::runScriptWithUpload, script name = ReadRAM  
+936 1716184368533 XXXX 1716184368533, Thread 936: XXXX 1716184368533, Entering Thread 936: ToolCommUsb::readTransfer, sideData is 0x28 bytes long, transferDataLength is 0x2 bytes long  
+936 1716184368536 XXXX 1716184368536, Thread 936: XXXX 1716184368536, Exiting Thread 936: ToolCommUsb::readTransfer,  cr.status = 0x0  
+936 1716184368536 XXXX 1716184368536, Thread 936: XXXX 1716184368536, Exiting Thread 936: Commands::runScriptWithUpload  
+936 1716184368536 XXXX 1716184368536, Thread 936: XXXX 1716184368536, Entering Thread 936: Commands::runScriptWithDownload, script name = WriteRAM  
+936 1716184368540 XXXX 1716184368540, Thread 936: XXXX 1716184368540, Exiting Thread 936: Commands::runScriptWithDownload(WriteRAM)  
+936 1716184368540 XXXX 1716184368540, Thread 936: XXXX 1716184368540, Entering Thread 936: Commands::runScriptWithUpload, script name = ReadRAM  
+936 1716184368540 XXXX 1716184368540, Thread 936: XXXX 1716184368540, Entering Thread 936: ToolCommUsb::readTransfer, sideData is 0x28 bytes long, transferDataLength is 0x2 bytes long  
+936 1716184368543 XXXX 1716184368543, Thread 936: XXXX 1716184368543, Exiting Thread 936: ToolCommUsb::readTransfer,  cr.status = 0x0  
+936 1716184368543 XXXX 1716184368543, Thread 936: XXXX 1716184368543, Exiting Thread 936: Commands::runScriptWithUpload  
+936 1716184368543 XXXX 1716184368543, Thread 936: XXXX 1716184368543, Entering Thread 936: Commands::runScriptWithDownload, script name = WriteRAM  
+936 1716184368547 XXXX 1716184368547, Thread 936: XXXX 1716184368547, Exiting Thread 936: Commands::runScriptWithDownload(WriteRAM)  
+936 1716184368547 XXXX 1716184368547, Thread 936: XXXX 1716184368547, Entering Thread 936: Commands::runScriptWithUpload, script name = ReadRAM  
+936 1716184368547 XXXX 1716184368547, Thread 936: XXXX 1716184368547, Entering Thread 936: ToolCommUsb::readTransfer, sideData is 0x28 bytes long, transferDataLength is 0x2 bytes long  
+936 1716184368550 XXXX 1716184368550, Thread 936: XXXX 1716184368550, Exiting Thread 936: ToolCommUsb::readTransfer,  cr.status = 0x0  
+936 1716184368550 XXXX 1716184368550, Thread 936: XXXX 1716184368550, Exiting Thread 936: Commands::runScriptWithUpload  
+936 1716184368550 XXXX 1716184368550, Thread 936: XXXX 1716184368550, Entering Thread 936: Commands::runScriptWithDownload, script name = WriteRAM  
+936 1716184368554 XXXX 1716184368554, Thread 936: XXXX 1716184368554, Exiting Thread 936: Commands::runScriptWithDownload(WriteRAM)  
+936 1716184368554 XXXX 1716184368554, Thread 936: XXXX 1716184368554, Entering Thread 936: Commands::runScriptWithUpload, script name = ReadRAM  
+936 1716184368554 XXXX 1716184368554, Thread 936: XXXX 1716184368554, Entering Thread 936: ToolCommUsb::readTransfer, sideData is 0x28 bytes long, transferDataLength is 0x2 bytes long  
+936 1716184368557 XXXX 1716184368557, Thread 936: XXXX 1716184368557, Exiting Thread 936: ToolCommUsb::readTransfer,  cr.status = 0x0  
+936 1716184368557 XXXX 1716184368557, Thread 936: XXXX 1716184368557, Exiting Thread 936: Commands::runScriptWithUpload  
+936 1716184368557 XXXX 1716184368557, Thread 936: XXXX 1716184368557, Entering Thread 936: Commands::runScriptWithDownload, script name = WriteRAM  
+936 1716184368561 XXXX 1716184368561, Thread 936: XXXX 1716184368561, Exiting Thread 936: Commands::runScriptWithDownload(WriteRAM)  
+936 1716184368561 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 Post:SetFreezePerihperalInfo
+936 1716184368561 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 Return Value
+936 1716184368561 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 none
+936 1716184368561 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 Return End
+
+936 1716184368561 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 Pre:GetPC
+936 1716184368561 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 Payload
+936 1716184368561 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 null
+936 1716184368561 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 Payload End
+936 1716184368561 XXXX 1716184368561, Thread 936: XXXX 1716184368561, Entering Thread 936: Commands::runScriptBasic, script name = GetPC, timeOut = -1 ms  
+936 1716184368563 XXXX 1716184368563, Thread 936: XXXX 1716184368563, Exiting Thread 936: Commands::runScriptBasic  
+936 1716184368563 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 Post:GetPC
+936 1716184368563 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 Return Value
+936 1716184368563 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 146ca
+936 1716184368563 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 Return End
+
+936 1716184368563 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 Pre:RunTarget
+936 1716184368563 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 Payload
+936 1716184368563 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 com.microchip.mplab.mdbcore.RI4Tool.DebugHandler@5d02e53b
+936 1716184368563 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 Payload End
+936 1716184368563 XXXX 1716184368563, Thread 936: XXXX 1716184368563, Entering Thread 936: Commands::runScriptBasic, script name = Run, timeOut = -1 ms  
+936 1716184368564 XXXX 1716184368564, Thread 936: XXXX 1716184368564, Exiting Thread 936: Commands::runScriptBasic  
+936 1716184368564 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 Post:RunTarget
+936 1716184368564 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 Return Value
+936 1716184368564 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 true
+936 1716184368564 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 Return End
+936 1716184368822 XXXX 1716184368822, Thread 936: XXXX 1716184368822, Entering Thread 936: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+936 1716184368824 XXXX 1716184368824, Thread 936: XXXX 1716184368824, Exiting Thread 936: Commands::runScriptBasic  
+936 1716184368925 XXXX 1716184368925, Thread 936: XXXX 1716184368925, Entering Thread 936: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+936 1716184368926 XXXX 1716184368926, Thread 936: XXXX 1716184368926, Exiting Thread 936: Commands::runScriptBasic  
+936 1716184369026 XXXX 1716184369026, Thread 936: XXXX 1716184369026, Entering Thread 936: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+936 1716184369027 XXXX 1716184369027, Thread 936: XXXX 1716184369027, Exiting Thread 936: Commands::runScriptBasic  
+936 1716184369126 XXXX 1716184369126, Thread 936: XXXX 1716184369126, Entering Thread 936: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+936 1716184369127 XXXX 1716184369127, Thread 936: XXXX 1716184369127, Exiting Thread 936: Commands::runScriptBasic  
+936 1716184369227 XXXX 1716184369227, Thread 936: XXXX 1716184369227, Entering Thread 936: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+936 1716184369228 XXXX 1716184369228, Thread 936: XXXX 1716184369228, Exiting Thread 936: Commands::runScriptBasic  
+936 1716184369330 XXXX 1716184369330, Thread 936: XXXX 1716184369330, Entering Thread 936: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+936 1716184369331 XXXX 1716184369331, Thread 936: XXXX 1716184369331, Exiting Thread 936: Commands::runScriptBasic  
+936 1716184369432 XXXX 1716184369432, Thread 936: XXXX 1716184369432, Entering Thread 936: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+936 1716184369434 XXXX 1716184369434, Thread 936: XXXX 1716184369434, Exiting Thread 936: Commands::runScriptBasic  
+936 1716184369533 XXXX 1716184369533, Thread 936: XXXX 1716184369533, Entering Thread 936: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+936 1716184369534 XXXX 1716184369534, Thread 936: XXXX 1716184369534, Exiting Thread 936: Commands::runScriptBasic  
+936 1716184369634 XXXX 1716184369634, Thread 936: XXXX 1716184369634, Entering Thread 936: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+936 1716184369635 XXXX 1716184369635, Thread 936: XXXX 1716184369635, Exiting Thread 936: Commands::runScriptBasic  
+936 1716184369735 XXXX 1716184369735, Thread 936: XXXX 1716184369735, Entering Thread 936: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+936 1716184369737 XXXX 1716184369737, Thread 936: XXXX 1716184369737, Exiting Thread 936: Commands::runScriptBasic  
+936 1716184369837 XXXX 1716184369837, Thread 936: XXXX 1716184369837, Entering Thread 936: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+936 1716184369838 XXXX 1716184369838, Thread 936: XXXX 1716184369838, Exiting Thread 936: Commands::runScriptBasic  
+936 1716184369938 XXXX 1716184369938, Thread 936: XXXX 1716184369938, Entering Thread 936: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+936 1716184369939 XXXX 1716184369939, Thread 936: XXXX 1716184369939, Exiting Thread 936: Commands::runScriptBasic  
+936 1716184370038 XXXX 1716184370038, Thread 936: XXXX 1716184370038, Entering Thread 936: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+936 1716184370040 XXXX 1716184370040, Thread 936: XXXX 1716184370040, Exiting Thread 936: Commands::runScriptBasic  
+936 1716184370140 XXXX 1716184370140, Thread 936: XXXX 1716184370140, Entering Thread 936: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+936 1716184370141 XXXX 1716184370141, Thread 936: XXXX 1716184370141, Exiting Thread 936: Commands::runScriptBasic  
+936 1716184370240 XXXX 1716184370240, Thread 936: XXXX 1716184370240, Entering Thread 936: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+936 1716184370241 XXXX 1716184370241, Thread 936: XXXX 1716184370241, Exiting Thread 936: Commands::runScriptBasic  
+936 1716184370341 XXXX 1716184370341, Thread 936: XXXX 1716184370341, Entering Thread 936: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+936 1716184370342 XXXX 1716184370342, Thread 936: XXXX 1716184370342, Exiting Thread 936: Commands::runScriptBasic  
+936 1716184370442 XXXX 1716184370442, Thread 936: XXXX 1716184370442, Entering Thread 936: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+936 1716184370443 XXXX 1716184370443, Thread 936: XXXX 1716184370443, Exiting Thread 936: Commands::runScriptBasic  
+936 1716184370544 XXXX 1716184370544, Thread 936: XXXX 1716184370544, Entering Thread 936: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+936 1716184370545 XXXX 1716184370545, Thread 936: XXXX 1716184370545, Exiting Thread 936: Commands::runScriptBasic  
+936 1716184370645 XXXX 1716184370645, Thread 936: XXXX 1716184370645, Entering Thread 936: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+936 1716184370646 XXXX 1716184370646, Thread 936: XXXX 1716184370646, Exiting Thread 936: Commands::runScriptBasic  
+936 1716184370746 XXXX 1716184370746, Thread 936: XXXX 1716184370746, Entering Thread 936: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+936 1716184370747 XXXX 1716184370747, Thread 936: XXXX 1716184370747, Exiting Thread 936: Commands::runScriptBasic  
+936 1716184370847 XXXX 1716184370847, Thread 936: XXXX 1716184370847, Entering Thread 936: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+936 1716184370849 XXXX 1716184370849, Thread 936: XXXX 1716184370849, Exiting Thread 936: Commands::runScriptBasic  
+936 1716184370948 XXXX 1716184370948, Thread 936: XXXX 1716184370948, Entering Thread 936: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+936 1716184370950 XXXX 1716184370950, Thread 936: XXXX 1716184370950, Exiting Thread 936: Commands::runScriptBasic  
+936 1716184371050 XXXX 1716184371050, Thread 936: XXXX 1716184371050, Entering Thread 936: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+936 1716184371051 XXXX 1716184371051, Thread 936: XXXX 1716184371051, Exiting Thread 936: Commands::runScriptBasic  
+936 1716184371151 XXXX 1716184371151, Thread 936: XXXX 1716184371151, Entering Thread 936: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+936 1716184371152 XXXX 1716184371152, Thread 936: XXXX 1716184371152, Exiting Thread 936: Commands::runScriptBasic  
+936 1716184371254 XXXX 1716184371254, Thread 936: XXXX 1716184371254, Entering Thread 936: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+936 1716184371255 XXXX 1716184371255, Thread 936: XXXX 1716184371255, Exiting Thread 936: Commands::runScriptBasic  
+936 1716184371354 XXXX 1716184371354, Thread 936: XXXX 1716184371354, Entering Thread 936: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+936 1716184371355 XXXX 1716184371355, Thread 936: XXXX 1716184371355, Exiting Thread 936: Commands::runScriptBasic  
+936 1716184371453 XXXX 1716184371453, Thread 936: XXXX 1716184371453, Entering Thread 936: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+936 1716184371454 XXXX 1716184371454, Thread 936: XXXX 1716184371454, Exiting Thread 936: Commands::runScriptBasic  
+936 1716184371554 XXXX 1716184371554, Thread 936: XXXX 1716184371554, Entering Thread 936: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+936 1716184371556 XXXX 1716184371556, Thread 936: XXXX 1716184371556, Exiting Thread 936: Commands::runScriptBasic  
+936 1716184371656 XXXX 1716184371656, Thread 936: XXXX 1716184371656, Entering Thread 936: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+936 1716184371657 XXXX 1716184371657, Thread 936: XXXX 1716184371657, Exiting Thread 936: Commands::runScriptBasic  
+936 1716184371758 XXXX 1716184371758, Thread 936: XXXX 1716184371758, Entering Thread 936: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+936 1716184371760 XXXX 1716184371760, Thread 936: XXXX 1716184371760, Exiting Thread 936: Commands::runScriptBasic  
+936 1716184371859 XXXX 1716184371859, Thread 936: XXXX 1716184371859, Entering Thread 936: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+936 1716184371860 XXXX 1716184371860, Thread 936: XXXX 1716184371860, Exiting Thread 936: Commands::runScriptBasic  
+936 1716184371960 XXXX 1716184371960, Thread 936: XXXX 1716184371960, Entering Thread 936: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+936 1716184371962 XXXX 1716184371962, Thread 936: XXXX 1716184371962, Exiting Thread 936: Commands::runScriptBasic  
+936 1716184372062 XXXX 1716184372062, Thread 936: XXXX 1716184372062, Entering Thread 936: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+936 1716184372063 XXXX 1716184372063, Thread 936: XXXX 1716184372063, Exiting Thread 936: Commands::runScriptBasic  
+936 1716184372163 XXXX 1716184372163, Thread 936: XXXX 1716184372163, Entering Thread 936: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+936 1716184372165 XXXX 1716184372165, Thread 936: XXXX 1716184372165, Exiting Thread 936: Commands::runScriptBasic  
+936 1716184372264 XXXX 1716184372264, Thread 936: XXXX 1716184372264, Entering Thread 936: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+936 1716184372266 XXXX 1716184372266, Thread 936: XXXX 1716184372266, Exiting Thread 936: Commands::runScriptBasic  
+936 1716184372367 XXXX 1716184372367, Thread 936: XXXX 1716184372367, Entering Thread 936: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+936 1716184372368 XXXX 1716184372368, Thread 936: XXXX 1716184372368, Exiting Thread 936: Commands::runScriptBasic  
+936 1716184372468 XXXX 1716184372468, Thread 936: XXXX 1716184372468, Entering Thread 936: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+936 1716184372469 XXXX 1716184372469, Thread 936: XXXX 1716184372469, Exiting Thread 936: Commands::runScriptBasic  
+936 1716184372570 XXXX 1716184372570, Thread 936: XXXX 1716184372570, Entering Thread 936: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+936 1716184372571 XXXX 1716184372571, Thread 936: XXXX 1716184372571, Exiting Thread 936: Commands::runScriptBasic  
+936 1716184372672 XXXX 1716184372672, Thread 936: XXXX 1716184372672, Entering Thread 936: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+936 1716184372673 XXXX 1716184372673, Thread 936: XXXX 1716184372673, Exiting Thread 936: Commands::runScriptBasic  
+936 1716184372774 XXXX 1716184372774, Thread 936: XXXX 1716184372774, Entering Thread 936: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+936 1716184372775 XXXX 1716184372775, Thread 936: XXXX 1716184372775, Exiting Thread 936: Commands::runScriptBasic  
+936 1716184372875 XXXX 1716184372875, Thread 936: XXXX 1716184372875, Entering Thread 936: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+936 1716184372877 XXXX 1716184372877, Thread 936: XXXX 1716184372877, Exiting Thread 936: Commands::runScriptBasic  
+
+936 1716184372881 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 Pre:GetPC
+936 1716184372881 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 Payload
+936 1716184372881 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 null
+936 1716184372881 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 Payload End
+936 1716184372881 XXXX 1716184372881, Thread 936: XXXX 1716184372881, Entering Thread 936: Commands::runScriptBasic, script name = GetPC, timeOut = -1 ms  
+936 1716184372883 XXXX 1716184372883, Thread 936: XXXX 1716184372883, Exiting Thread 936: Commands::runScriptBasic  
+936 1716184372883 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 Post:GetPC
+936 1716184372883 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 Return Value
+936 1716184372883 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 146ca
+936 1716184372883 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 Return End
+
+936 1716184372883 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 Pre:DebugReadTargetMemory
+936 1716184372883 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 Payload
+936 1716184372883 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 Emulation
+936 1716184372883 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 fd0044
+936 1716184372883 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 fd0047
+936 1716184372883 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 Length = 4
+936 1716184372883 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 Payload End
+936 1716184372883 XXXX 1716184372883, Thread 936: XXXX 1716184372883, Entering Thread 936: Commands::runScriptWithUpload, script name = ReadEmu  
+936 1716184372883 XXXX 1716184372883, Thread 936: XXXX 1716184372883, Entering Thread 936: ToolCommUsb::readTransfer, sideData is 0x2c bytes long, transferDataLength is 0x4 bytes long  
+936 1716184372885 XXXX 1716184372885, Thread 936: XXXX 1716184372885, Exiting Thread 936: ToolCommUsb::readTransfer,  cr.status = 0x0  
+936 1716184372885 XXXX 1716184372885, Thread 936: XXXX 1716184372885, Exiting Thread 936: Commands::runScriptWithUpload  
+936 1716184372885 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 Post:DebugReadTargetMemory
+936 1716184372885 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 Return Value
+936 1716184372885 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 true
+936 1716184372885 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 Return End
+
+936 1716184372886 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 Pre:DebugWriteTargetMemory
+936 1716184372886 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 Payload
+936 1716184372886 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 Emulation
+936 1716184372886 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 fd0000
+936 1716184372886 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 fd004f
+936 1716184372886 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 Length = 80
+936 1716184372886 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 Payload End
+936 1716184372886 XXXX 1716184372886, Thread 936: XXXX 1716184372886, Entering Thread 936: Commands::runScriptWithDownload, script name = WriteEmu  
+936 1716184372891 XXXX 1716184372891, Thread 936: XXXX 1716184372891, Exiting Thread 936: Commands::runScriptWithDownload(WriteEmu)  
+936 1716184372891 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 Post:DebugWriteTargetMemory
+936 1716184372891 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 Return Value
+936 1716184372891 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 true
+936 1716184372891 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 Return End
+
+936 1716184372891 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 Pre:GetPC
+936 1716184372891 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 Payload
+936 1716184372891 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 null
+936 1716184372891 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 Payload End
+936 1716184372891 XXXX 1716184372891, Thread 936: XXXX 1716184372891, Entering Thread 936: Commands::runScriptBasic, script name = GetPC, timeOut = -1 ms  
+936 1716184372893 XXXX 1716184372893, Thread 936: XXXX 1716184372893, Exiting Thread 936: Commands::runScriptBasic  
+936 1716184372893 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 Post:GetPC
+936 1716184372893 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 Return Value
+936 1716184372893 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 146ca
+936 1716184372893 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 Return End
+
+311 1716184372894 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 Pre:GetPC
+311 1716184372894 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 Payload
+311 1716184372894 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 null
+311 1716184372894 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 Payload End
+311 1716184372894 XXXX 1716184372894, Thread 311: XXXX 1716184372894, Entering Thread 311: Commands::runScriptBasic, script name = GetPC, timeOut = -1 ms  
+311 1716184372895 XXXX 1716184372895, Thread 311: XXXX 1716184372895, Exiting Thread 311: Commands::runScriptBasic  
+311 1716184372895 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 Post:GetPC
+311 1716184372895 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 Return Value
+311 1716184372895 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 146ca
+311 1716184372895 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 Return End
+
+311 1716184372895 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 Pre:DebugReadTargetMemory
+311 1716184372895 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 Payload
+311 1716184372895 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 FileRegs
+311 1716184372895 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 760
+311 1716184372895 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 761
+311 1716184372895 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 Length = 2
+311 1716184372895 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 Payload End
+311 1716184372895 XXXX 1716184372895, Thread 311: XXXX 1716184372895, Entering Thread 311: Commands::runScriptWithUpload, script name = ReadRAM  
+311 1716184372895 XXXX 1716184372895, Thread 311: XXXX 1716184372895, Entering Thread 311: ToolCommUsb::readTransfer, sideData is 0x28 bytes long, transferDataLength is 0x2 bytes long  
+311 1716184372898 XXXX 1716184372898, Thread 311: XXXX 1716184372898, Exiting Thread 311: ToolCommUsb::readTransfer,  cr.status = 0x0  
+311 1716184372898 XXXX 1716184372898, Thread 311: XXXX 1716184372898, Exiting Thread 311: Commands::runScriptWithUpload  
+311 1716184372898 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 Post:DebugReadTargetMemory
+311 1716184372898 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 Return Value
+311 1716184372898 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 true
+311 1716184372898 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 Return End
+
+311 1716184372900 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 Pre:DebugReadTargetMemory
+311 1716184372900 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 Payload
+311 1716184372900 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 FileRegs
+311 1716184372900 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 81e
+311 1716184372900 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 81f
+311 1716184372900 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 Length = 2
+311 1716184372900 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 Payload End
+311 1716184372900 XXXX 1716184372900, Thread 311: XXXX 1716184372900, Entering Thread 311: Commands::runScriptWithUpload, script name = ReadRAM  
+311 1716184372900 XXXX 1716184372900, Thread 311: XXXX 1716184372900, Entering Thread 311: ToolCommUsb::readTransfer, sideData is 0x28 bytes long, transferDataLength is 0x2 bytes long  
+311 1716184372902 XXXX 1716184372902, Thread 311: XXXX 1716184372902, Exiting Thread 311: ToolCommUsb::readTransfer,  cr.status = 0x0  
+311 1716184372902 XXXX 1716184372902, Thread 311: XXXX 1716184372902, Exiting Thread 311: Commands::runScriptWithUpload  
+311 1716184372902 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 Post:DebugReadTargetMemory
+311 1716184372902 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 Return Value
+311 1716184372902 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 true
+311 1716184372902 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 Return End
+
+311 1716184372903 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 Pre:DebugReadTargetMemory
+311 1716184372903 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 Payload
+311 1716184372903 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 FileRegs
+311 1716184372903 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 81e
+311 1716184372903 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 81f
+311 1716184372903 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 Length = 2
+311 1716184372903 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 Payload End
+311 1716184372903 XXXX 1716184372903, Thread 311: XXXX 1716184372903, Entering Thread 311: Commands::runScriptWithUpload, script name = ReadRAM  
+311 1716184372903 XXXX 1716184372903, Thread 311: XXXX 1716184372903, Entering Thread 311: ToolCommUsb::readTransfer, sideData is 0x28 bytes long, transferDataLength is 0x2 bytes long  
+311 1716184372907 XXXX 1716184372907, Thread 311: XXXX 1716184372907, Exiting Thread 311: ToolCommUsb::readTransfer,  cr.status = 0x0  
+311 1716184372907 XXXX 1716184372907, Thread 311: XXXX 1716184372907, Exiting Thread 311: Commands::runScriptWithUpload  
+311 1716184372907 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 Post:DebugReadTargetMemory
+311 1716184372907 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 Return Value
+311 1716184372907 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 true
+311 1716184372907 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 Return End
+
+311 1716184372907 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 Pre:DebugReadTargetMemory
+311 1716184372907 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 Payload
+311 1716184372907 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 FileRegs
+311 1716184372907 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 760
+311 1716184372907 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 761
+311 1716184372907 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 Length = 2
+311 1716184372907 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 Payload End
+311 1716184372907 XXXX 1716184372907, Thread 311: XXXX 1716184372907, Entering Thread 311: Commands::runScriptWithUpload, script name = ReadRAM  
+311 1716184372907 XXXX 1716184372907, Thread 311: XXXX 1716184372907, Entering Thread 311: ToolCommUsb::readTransfer, sideData is 0x28 bytes long, transferDataLength is 0x2 bytes long  
+311 1716184372911 XXXX 1716184372911, Thread 311: XXXX 1716184372911, Exiting Thread 311: ToolCommUsb::readTransfer,  cr.status = 0x0  
+311 1716184372911 XXXX 1716184372911, Thread 311: XXXX 1716184372911, Exiting Thread 311: Commands::runScriptWithUpload  
+311 1716184372911 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 Post:DebugReadTargetMemory
+311 1716184372911 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 Return Value
+311 1716184372911 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 true
+311 1716184372911 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 Return End
+
+1070 1716184374029 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 Pre:setTraceDescriptor
+1070 1716184374029 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 Payload
+1070 1716184374029 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 com.microchip.mplab.libs.RI4ToolsController.DataClasses.TraceDescriptor@3089bdc3
+1070 1716184374029 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 Payload End
+1070 1716184374029 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 Post:setTraceDescriptor
+1070 1716184374029 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 Return Value
+1070 1716184374029 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 none
+1070 1716184374029 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 Return End
+
+1070 1716184374029 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 Pre:DebugWriteTargetMemory
+1070 1716184374029 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 Payload
+1070 1716184374029 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 Emulation
+1070 1716184374029 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 fd0000
+1070 1716184374029 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 fd004f
+1070 1716184374029 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 Length = 80
+1070 1716184374029 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 Payload End
+1070 1716184374029 XXXX 1716184374029, Thread 1070: XXXX 1716184374029, Entering Thread 1070: Commands::runScriptWithDownload, script name = WriteEmu  
+1070 1716184374034 XXXX 1716184374034, Thread 1070: XXXX 1716184374034, Exiting Thread 1070: Commands::runScriptWithDownload(WriteEmu)  
+1070 1716184374034 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 Post:DebugWriteTargetMemory
+1070 1716184374034 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 Return Value
+1070 1716184374034 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 true
+1070 1716184374034 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 Return End
+
+1070 1716184374034 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 Pre:SetFreezePerihperalInfo
+1070 1716184374034 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 Payload
+1070 1716184374034 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 BitSetInfo: Values:
+1070 1716184374034 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 BitSetInfo: Address = 106, Mask = 4000, SetVal = 4000, Type = FileRegs
+1070 1716184374034 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 BitSetInfo: Values:
+1070 1716184374034 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 BitSetInfo: Address = 114, Mask = 4000, SetVal = 4000, Type = FileRegs
+1070 1716184374034 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 BitSetInfo: Values:
+1070 1716184374034 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 BitSetInfo: Address = 158, Mask = 4000, SetVal = 4000, Type = FileRegs
+1070 1716184374034 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 BitSetInfo: Values:
+1070 1716184374034 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 BitSetInfo: Address = 168, Mask = 4000, SetVal = 4000, Type = FileRegs
+1070 1716184374034 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 BitSetInfo: Values:
+1070 1716184374034 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 BitSetInfo: Address = 194, Mask = 4000, SetVal = 4000, Type = FileRegs
+1070 1716184374034 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 BitSetInfo: Values:
+1070 1716184374034 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 BitSetInfo: Address = 1a0, Mask = 4000, SetVal = 4000, Type = FileRegs
+1070 1716184374034 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 BitSetInfo: Values:
+1070 1716184374034 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 BitSetInfo: Address = 1a2, Mask = 4000, SetVal = 4000, Type = FileRegs
+1070 1716184374034 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 BitSetInfo: Values:
+1070 1716184374034 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 BitSetInfo: Address = 1ae, Mask = 4000, SetVal = 4000, Type = FileRegs
+1070 1716184374034 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 BitSetInfo: Values:
+1070 1716184374034 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 BitSetInfo: Address = 1b0, Mask = 4000, SetVal = 4000, Type = FileRegs
+1070 1716184374034 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 BitSetInfo: Values:
+1070 1716184374034 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 BitSetInfo: Address = 1cc, Mask = 4000, SetVal = 4000, Type = FileRegs
+1070 1716184374034 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 BitSetInfo: Values:
+1070 1716184374034 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 BitSetInfo: Address = 248, Mask = 4000, SetVal = 4000, Type = FileRegs
+1070 1716184374034 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 BitSetInfo: Values:
+1070 1716184374034 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 BitSetInfo: Address = 26c, Mask = 4000, SetVal = 4000, Type = FileRegs
+1070 1716184374034 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 BitSetInfo: Values:
+1070 1716184374034 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 BitSetInfo: Address = 290, Mask = 4000, SetVal = 4000, Type = FileRegs
+1070 1716184374034 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 BitSetInfo: Values:
+1070 1716184374034 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 BitSetInfo: Address = 2b4, Mask = 4000, SetVal = 4000, Type = FileRegs
+1070 1716184374034 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 BitSetInfo: Values:
+1070 1716184374034 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 BitSetInfo: Address = 2e6, Mask = 4000, SetVal = 4000, Type = FileRegs
+1070 1716184374034 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 BitSetInfo: Values:
+1070 1716184374034 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 BitSetInfo: Address = 300, Mask = 4000, SetVal = 4000, Type = FileRegs
+1070 1716184374034 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 BitSetInfo: Values:
+1070 1716184374034 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 BitSetInfo: Address = 324, Mask = 4000, SetVal = 4000, Type = FileRegs
+1070 1716184374034 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 BitSetInfo: Values:
+1070 1716184374034 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 BitSetInfo: Address = 348, Mask = 4000, SetVal = 4000, Type = FileRegs
+1070 1716184374034 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 BitSetInfo: Values:
+1070 1716184374034 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 BitSetInfo: Address = 36c, Mask = 4000, SetVal = 4000, Type = FileRegs
+1070 1716184374034 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 BitSetInfo: Values:
+1070 1716184374034 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 BitSetInfo: Address = 398, Mask = 4000, SetVal = 4000, Type = FileRegs
+1070 1716184374034 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 BitSetInfo: Values:
+1070 1716184374034 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 BitSetInfo: Address = 3ae, Mask = 4000, SetVal = 4000, Type = FileRegs
+1070 1716184374034 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 BitSetInfo: Values:
+1070 1716184374034 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 BitSetInfo: Address = 3c4, Mask = 4000, SetVal = 4000, Type = FileRegs
+1070 1716184374034 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 BitSetInfo: Values:
+1070 1716184374034 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 BitSetInfo: Address = 3d0, Mask = 4000, SetVal = 4000, Type = FileRegs
+1070 1716184374034 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 BitSetInfo: Values:
+1070 1716184374034 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 BitSetInfo: Address = 3dc, Mask = 4000, SetVal = 4000, Type = FileRegs
+1070 1716184374034 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 BitSetInfo: Values:
+1070 1716184374034 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 BitSetInfo: Address = 3e8, Mask = 4000, SetVal = 4000, Type = FileRegs
+1070 1716184374034 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 BitSetInfo: Values:
+1070 1716184374034 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 BitSetInfo: Address = 3f4, Mask = 4000, SetVal = 4000, Type = FileRegs
+1070 1716184374034 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 BitSetInfo: Values:
+1070 1716184374034 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 BitSetInfo: Address = 410, Mask = 4000, SetVal = 4000, Type = FileRegs
+1070 1716184374034 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 BitSetInfo: Values:
+1070 1716184374034 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 BitSetInfo: Address = 42c, Mask = 4000, SetVal = 4000, Type = FileRegs
+1070 1716184374034 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 BitSetInfo: Values:
+1070 1716184374034 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 BitSetInfo: Address = 448, Mask = 4000, SetVal = 4000, Type = FileRegs
+1070 1716184374034 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 BitSetInfo: Values:
+1070 1716184374034 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 BitSetInfo: Address = 464, Mask = 4000, SetVal = 4000, Type = FileRegs
+1070 1716184374034 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 BitSetInfo: Values:
+1070 1716184374034 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 BitSetInfo: Address = 470, Mask = 4000, SetVal = 4000, Type = FileRegs
+1070 1716184374034 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 BitSetInfo: Values:
+1070 1716184374034 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 BitSetInfo: Address = 47c, Mask = 4000, SetVal = 4000, Type = FileRegs
+1070 1716184374034 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 BitSetInfo: Values:
+1070 1716184374034 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 BitSetInfo: Address = 488, Mask = 4000, SetVal = 4000, Type = FileRegs
+1070 1716184374034 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 BitSetInfo: Values:
+1070 1716184374034 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 BitSetInfo: Address = 49a, Mask = 4000, SetVal = 4000, Type = FileRegs
+1070 1716184374034 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 BitSetInfo: Values:
+1070 1716184374034 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 BitSetInfo: Address = 4aa, Mask = 4000, SetVal = 4000, Type = FileRegs
+1070 1716184374034 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 BitSetInfo: Values:
+1070 1716184374034 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 BitSetInfo: Address = 4ba, Mask = 4000, SetVal = 4000, Type = FileRegs
+1070 1716184374034 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 BitSetInfo: Values:
+1070 1716184374034 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 BitSetInfo: Address = 4c4, Mask = 4000, SetVal = 4000, Type = FileRegs
+1070 1716184374034 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 BitSetInfo: Values:
+1070 1716184374034 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 BitSetInfo: Address = 540, Mask = 4000, SetVal = 4000, Type = FileRegs
+1070 1716184374034 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 BitSetInfo: Values:
+1070 1716184374034 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 BitSetInfo: Address = 626, Mask = 20, SetVal = 20, Type = FileRegs
+1070 1716184374034 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 BitSetInfo: Values:
+1070 1716184374034 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 BitSetInfo: Address = 65c, Mask = 4000, SetVal = 4000, Type = FileRegs
+1070 1716184374034 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 BitSetInfo: Values:
+1070 1716184374034 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 BitSetInfo: Address = 734, Mask = 4000, SetVal = 4000, Type = FileRegs
+1070 1716184374034 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 BitSetInfo: Values:
+1070 1716184374034 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 BitSetInfo: Address = fd0036, Mask = 1, SetVal = 1, Type = Emulation
+1070 1716184374034 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 Payload End
+1070 1716184374034 XXXX 1716184374034, Thread 1070: XXXX 1716184374034, Entering Thread 1070: Commands::runScriptWithUpload, script name = ReadRAM  
+1070 1716184374034 XXXX 1716184374034, Thread 1070: XXXX 1716184374034, Entering Thread 1070: ToolCommUsb::readTransfer, sideData is 0x28 bytes long, transferDataLength is 0x2 bytes long  
+1070 1716184374037 XXXX 1716184374037, Thread 1070: XXXX 1716184374037, Exiting Thread 1070: ToolCommUsb::readTransfer,  cr.status = 0x0  
+1070 1716184374037 XXXX 1716184374037, Thread 1070: XXXX 1716184374037, Exiting Thread 1070: Commands::runScriptWithUpload  
+1070 1716184374037 XXXX 1716184374037, Thread 1070: XXXX 1716184374037, Entering Thread 1070: Commands::runScriptWithDownload, script name = WriteRAM  
+1070 1716184374041 XXXX 1716184374041, Thread 1070: XXXX 1716184374041, Exiting Thread 1070: Commands::runScriptWithDownload(WriteRAM)  
+1070 1716184374041 XXXX 1716184374041, Thread 1070: XXXX 1716184374041, Entering Thread 1070: Commands::runScriptWithUpload, script name = ReadRAM  
+1070 1716184374041 XXXX 1716184374041, Thread 1070: XXXX 1716184374041, Entering Thread 1070: ToolCommUsb::readTransfer, sideData is 0x28 bytes long, transferDataLength is 0x2 bytes long  
+1070 1716184374044 XXXX 1716184374044, Thread 1070: XXXX 1716184374044, Exiting Thread 1070: ToolCommUsb::readTransfer,  cr.status = 0x0  
+1070 1716184374044 XXXX 1716184374044, Thread 1070: XXXX 1716184374044, Exiting Thread 1070: Commands::runScriptWithUpload  
+1070 1716184374044 XXXX 1716184374044, Thread 1070: XXXX 1716184374044, Entering Thread 1070: Commands::runScriptWithDownload, script name = WriteRAM  
+1070 1716184374047 XXXX 1716184374047, Thread 1070: XXXX 1716184374047, Exiting Thread 1070: Commands::runScriptWithDownload(WriteRAM)  
+1070 1716184374047 XXXX 1716184374047, Thread 1070: XXXX 1716184374047, Entering Thread 1070: Commands::runScriptWithUpload, script name = ReadRAM  
+1070 1716184374047 XXXX 1716184374047, Thread 1070: XXXX 1716184374047, Entering Thread 1070: ToolCommUsb::readTransfer, sideData is 0x28 bytes long, transferDataLength is 0x2 bytes long  
+1070 1716184374050 XXXX 1716184374050, Thread 1070: XXXX 1716184374050, Exiting Thread 1070: ToolCommUsb::readTransfer,  cr.status = 0x0  
+1070 1716184374050 XXXX 1716184374050, Thread 1070: XXXX 1716184374050, Exiting Thread 1070: Commands::runScriptWithUpload  
+1070 1716184374050 XXXX 1716184374050, Thread 1070: XXXX 1716184374050, Entering Thread 1070: Commands::runScriptWithDownload, script name = WriteRAM  
+1070 1716184374054 XXXX 1716184374054, Thread 1070: XXXX 1716184374054, Exiting Thread 1070: Commands::runScriptWithDownload(WriteRAM)  
+1070 1716184374054 XXXX 1716184374054, Thread 1070: XXXX 1716184374054, Entering Thread 1070: Commands::runScriptWithUpload, script name = ReadRAM  
+1070 1716184374054 XXXX 1716184374054, Thread 1070: XXXX 1716184374054, Entering Thread 1070: ToolCommUsb::readTransfer, sideData is 0x28 bytes long, transferDataLength is 0x2 bytes long  
+1070 1716184374057 XXXX 1716184374057, Thread 1070: XXXX 1716184374057, Exiting Thread 1070: ToolCommUsb::readTransfer,  cr.status = 0x0  
+1070 1716184374057 XXXX 1716184374057, Thread 1070: XXXX 1716184374057, Exiting Thread 1070: Commands::runScriptWithUpload  
+1070 1716184374057 XXXX 1716184374057, Thread 1070: XXXX 1716184374057, Entering Thread 1070: Commands::runScriptWithDownload, script name = WriteRAM  
+1070 1716184374061 XXXX 1716184374061, Thread 1070: XXXX 1716184374061, Exiting Thread 1070: Commands::runScriptWithDownload(WriteRAM)  
+1070 1716184374061 XXXX 1716184374061, Thread 1070: XXXX 1716184374061, Entering Thread 1070: Commands::runScriptWithUpload, script name = ReadRAM  
+1070 1716184374061 XXXX 1716184374061, Thread 1070: XXXX 1716184374061, Entering Thread 1070: ToolCommUsb::readTransfer, sideData is 0x28 bytes long, transferDataLength is 0x2 bytes long  
+1070 1716184374064 XXXX 1716184374064, Thread 1070: XXXX 1716184374064, Exiting Thread 1070: ToolCommUsb::readTransfer,  cr.status = 0x0  
+1070 1716184374064 XXXX 1716184374064, Thread 1070: XXXX 1716184374064, Exiting Thread 1070: Commands::runScriptWithUpload  
+1070 1716184374064 XXXX 1716184374064, Thread 1070: XXXX 1716184374064, Entering Thread 1070: Commands::runScriptWithDownload, script name = WriteRAM  
+1070 1716184374068 XXXX 1716184374068, Thread 1070: XXXX 1716184374068, Exiting Thread 1070: Commands::runScriptWithDownload(WriteRAM)  
+1070 1716184374068 XXXX 1716184374068, Thread 1070: XXXX 1716184374068, Entering Thread 1070: Commands::runScriptWithUpload, script name = ReadRAM  
+1070 1716184374068 XXXX 1716184374068, Thread 1070: XXXX 1716184374068, Entering Thread 1070: ToolCommUsb::readTransfer, sideData is 0x28 bytes long, transferDataLength is 0x2 bytes long  
+1070 1716184374071 XXXX 1716184374071, Thread 1070: XXXX 1716184374071, Exiting Thread 1070: ToolCommUsb::readTransfer,  cr.status = 0x0  
+1070 1716184374071 XXXX 1716184374071, Thread 1070: XXXX 1716184374071, Exiting Thread 1070: Commands::runScriptWithUpload  
+1070 1716184374071 XXXX 1716184374071, Thread 1070: XXXX 1716184374071, Entering Thread 1070: Commands::runScriptWithDownload, script name = WriteRAM  
+1070 1716184374075 XXXX 1716184374075, Thread 1070: XXXX 1716184374075, Exiting Thread 1070: Commands::runScriptWithDownload(WriteRAM)  
+1070 1716184374075 XXXX 1716184374075, Thread 1070: XXXX 1716184374075, Entering Thread 1070: Commands::runScriptWithUpload, script name = ReadRAM  
+1070 1716184374075 XXXX 1716184374075, Thread 1070: XXXX 1716184374075, Entering Thread 1070: ToolCommUsb::readTransfer, sideData is 0x28 bytes long, transferDataLength is 0x2 bytes long  
+1070 1716184374078 XXXX 1716184374078, Thread 1070: XXXX 1716184374078, Exiting Thread 1070: ToolCommUsb::readTransfer,  cr.status = 0x0  
+1070 1716184374078 XXXX 1716184374078, Thread 1070: XXXX 1716184374078, Exiting Thread 1070: Commands::runScriptWithUpload  
+1070 1716184374078 XXXX 1716184374078, Thread 1070: XXXX 1716184374078, Entering Thread 1070: Commands::runScriptWithDownload, script name = WriteRAM  
+1070 1716184374081 XXXX 1716184374081, Thread 1070: XXXX 1716184374081, Exiting Thread 1070: Commands::runScriptWithDownload(WriteRAM)  
+1070 1716184374081 XXXX 1716184374081, Thread 1070: XXXX 1716184374081, Entering Thread 1070: Commands::runScriptWithUpload, script name = ReadRAM  
+1070 1716184374081 XXXX 1716184374081, Thread 1070: XXXX 1716184374081, Entering Thread 1070: ToolCommUsb::readTransfer, sideData is 0x28 bytes long, transferDataLength is 0x2 bytes long  
+1070 1716184374084 XXXX 1716184374084, Thread 1070: XXXX 1716184374084, Exiting Thread 1070: ToolCommUsb::readTransfer,  cr.status = 0x0  
+1070 1716184374084 XXXX 1716184374084, Thread 1070: XXXX 1716184374084, Exiting Thread 1070: Commands::runScriptWithUpload  
+1070 1716184374084 XXXX 1716184374084, Thread 1070: XXXX 1716184374084, Entering Thread 1070: Commands::runScriptWithDownload, script name = WriteRAM  
+1070 1716184374088 XXXX 1716184374088, Thread 1070: XXXX 1716184374088, Exiting Thread 1070: Commands::runScriptWithDownload(WriteRAM)  
+1070 1716184374088 XXXX 1716184374088, Thread 1070: XXXX 1716184374088, Entering Thread 1070: Commands::runScriptWithUpload, script name = ReadRAM  
+1070 1716184374088 XXXX 1716184374088, Thread 1070: XXXX 1716184374088, Entering Thread 1070: ToolCommUsb::readTransfer, sideData is 0x28 bytes long, transferDataLength is 0x2 bytes long  
+1070 1716184374091 XXXX 1716184374091, Thread 1070: XXXX 1716184374091, Exiting Thread 1070: ToolCommUsb::readTransfer,  cr.status = 0x0  
+1070 1716184374091 XXXX 1716184374091, Thread 1070: XXXX 1716184374091, Exiting Thread 1070: Commands::runScriptWithUpload  
+1070 1716184374091 XXXX 1716184374091, Thread 1070: XXXX 1716184374091, Entering Thread 1070: Commands::runScriptWithDownload, script name = WriteRAM  
+1070 1716184374095 XXXX 1716184374095, Thread 1070: XXXX 1716184374095, Exiting Thread 1070: Commands::runScriptWithDownload(WriteRAM)  
+1070 1716184374095 XXXX 1716184374095, Thread 1070: XXXX 1716184374095, Entering Thread 1070: Commands::runScriptWithUpload, script name = ReadRAM  
+1070 1716184374095 XXXX 1716184374095, Thread 1070: XXXX 1716184374095, Entering Thread 1070: ToolCommUsb::readTransfer, sideData is 0x28 bytes long, transferDataLength is 0x2 bytes long  
+1070 1716184374097 XXXX 1716184374097, Thread 1070: XXXX 1716184374097, Exiting Thread 1070: ToolCommUsb::readTransfer,  cr.status = 0x0  
+1070 1716184374097 XXXX 1716184374097, Thread 1070: XXXX 1716184374097, Exiting Thread 1070: Commands::runScriptWithUpload  
+1070 1716184374097 XXXX 1716184374097, Thread 1070: XXXX 1716184374097, Entering Thread 1070: Commands::runScriptWithDownload, script name = WriteRAM  
+1070 1716184374100 XXXX 1716184374100, Thread 1070: XXXX 1716184374100, Exiting Thread 1070: Commands::runScriptWithDownload(WriteRAM)  
+1070 1716184374100 XXXX 1716184374100, Thread 1070: XXXX 1716184374100, Entering Thread 1070: Commands::runScriptWithUpload, script name = ReadRAM  
+1070 1716184374100 XXXX 1716184374100, Thread 1070: XXXX 1716184374100, Entering Thread 1070: ToolCommUsb::readTransfer, sideData is 0x28 bytes long, transferDataLength is 0x2 bytes long  
+1070 1716184374104 XXXX 1716184374104, Thread 1070: XXXX 1716184374104, Exiting Thread 1070: ToolCommUsb::readTransfer,  cr.status = 0x0  
+1070 1716184374104 XXXX 1716184374104, Thread 1070: XXXX 1716184374104, Exiting Thread 1070: Commands::runScriptWithUpload  
+1070 1716184374104 XXXX 1716184374104, Thread 1070: XXXX 1716184374104, Entering Thread 1070: Commands::runScriptWithDownload, script name = WriteRAM  
+1070 1716184374107 XXXX 1716184374107, Thread 1070: XXXX 1716184374107, Exiting Thread 1070: Commands::runScriptWithDownload(WriteRAM)  
+1070 1716184374107 XXXX 1716184374107, Thread 1070: XXXX 1716184374107, Entering Thread 1070: Commands::runScriptWithUpload, script name = ReadRAM  
+1070 1716184374107 XXXX 1716184374107, Thread 1070: XXXX 1716184374107, Entering Thread 1070: ToolCommUsb::readTransfer, sideData is 0x28 bytes long, transferDataLength is 0x2 bytes long  
+1070 1716184374111 XXXX 1716184374111, Thread 1070: XXXX 1716184374111, Exiting Thread 1070: ToolCommUsb::readTransfer,  cr.status = 0x0  
+1070 1716184374111 XXXX 1716184374111, Thread 1070: XXXX 1716184374111, Exiting Thread 1070: Commands::runScriptWithUpload  
+1070 1716184374111 XXXX 1716184374111, Thread 1070: XXXX 1716184374111, Entering Thread 1070: Commands::runScriptWithDownload, script name = WriteRAM  
+1070 1716184374115 XXXX 1716184374115, Thread 1070: XXXX 1716184374115, Exiting Thread 1070: Commands::runScriptWithDownload(WriteRAM)  
+1070 1716184374115 XXXX 1716184374115, Thread 1070: XXXX 1716184374115, Entering Thread 1070: Commands::runScriptWithUpload, script name = ReadRAM  
+1070 1716184374115 XXXX 1716184374115, Thread 1070: XXXX 1716184374115, Entering Thread 1070: ToolCommUsb::readTransfer, sideData is 0x28 bytes long, transferDataLength is 0x2 bytes long  
+1070 1716184374118 XXXX 1716184374118, Thread 1070: XXXX 1716184374118, Exiting Thread 1070: ToolCommUsb::readTransfer,  cr.status = 0x0  
+1070 1716184374118 XXXX 1716184374118, Thread 1070: XXXX 1716184374118, Exiting Thread 1070: Commands::runScriptWithUpload  
+1070 1716184374118 XXXX 1716184374118, Thread 1070: XXXX 1716184374118, Entering Thread 1070: Commands::runScriptWithDownload, script name = WriteRAM  
+1070 1716184374122 XXXX 1716184374122, Thread 1070: XXXX 1716184374122, Exiting Thread 1070: Commands::runScriptWithDownload(WriteRAM)  
+1070 1716184374122 XXXX 1716184374122, Thread 1070: XXXX 1716184374122, Entering Thread 1070: Commands::runScriptWithUpload, script name = ReadRAM  
+1070 1716184374122 XXXX 1716184374122, Thread 1070: XXXX 1716184374122, Entering Thread 1070: ToolCommUsb::readTransfer, sideData is 0x28 bytes long, transferDataLength is 0x2 bytes long  
+1070 1716184374125 XXXX 1716184374125, Thread 1070: XXXX 1716184374125, Exiting Thread 1070: ToolCommUsb::readTransfer,  cr.status = 0x0  
+1070 1716184374125 XXXX 1716184374125, Thread 1070: XXXX 1716184374125, Exiting Thread 1070: Commands::runScriptWithUpload  
+1070 1716184374125 XXXX 1716184374125, Thread 1070: XXXX 1716184374125, Entering Thread 1070: Commands::runScriptWithDownload, script name = WriteRAM  
+1070 1716184374129 XXXX 1716184374129, Thread 1070: XXXX 1716184374129, Exiting Thread 1070: Commands::runScriptWithDownload(WriteRAM)  
+1070 1716184374129 XXXX 1716184374129, Thread 1070: XXXX 1716184374129, Entering Thread 1070: Commands::runScriptWithUpload, script name = ReadRAM  
+1070 1716184374129 XXXX 1716184374129, Thread 1070: XXXX 1716184374129, Entering Thread 1070: ToolCommUsb::readTransfer, sideData is 0x28 bytes long, transferDataLength is 0x2 bytes long  
+1070 1716184374132 XXXX 1716184374132, Thread 1070: XXXX 1716184374132, Exiting Thread 1070: ToolCommUsb::readTransfer,  cr.status = 0x0  
+1070 1716184374132 XXXX 1716184374132, Thread 1070: XXXX 1716184374132, Exiting Thread 1070: Commands::runScriptWithUpload  
+1070 1716184374132 XXXX 1716184374132, Thread 1070: XXXX 1716184374132, Entering Thread 1070: Commands::runScriptWithDownload, script name = WriteRAM  
+1070 1716184374136 XXXX 1716184374136, Thread 1070: XXXX 1716184374136, Exiting Thread 1070: Commands::runScriptWithDownload(WriteRAM)  
+1070 1716184374136 XXXX 1716184374136, Thread 1070: XXXX 1716184374136, Entering Thread 1070: Commands::runScriptWithUpload, script name = ReadRAM  
+1070 1716184374136 XXXX 1716184374136, Thread 1070: XXXX 1716184374136, Entering Thread 1070: ToolCommUsb::readTransfer, sideData is 0x28 bytes long, transferDataLength is 0x2 bytes long  
+1070 1716184374138 XXXX 1716184374138, Thread 1070: XXXX 1716184374138, Exiting Thread 1070: ToolCommUsb::readTransfer,  cr.status = 0x0  
+1070 1716184374138 XXXX 1716184374138, Thread 1070: XXXX 1716184374138, Exiting Thread 1070: Commands::runScriptWithUpload  
+1070 1716184374138 XXXX 1716184374138, Thread 1070: XXXX 1716184374138, Entering Thread 1070: Commands::runScriptWithDownload, script name = WriteRAM  
+1070 1716184374142 XXXX 1716184374142, Thread 1070: XXXX 1716184374142, Exiting Thread 1070: Commands::runScriptWithDownload(WriteRAM)  
+1070 1716184374142 XXXX 1716184374142, Thread 1070: XXXX 1716184374142, Entering Thread 1070: Commands::runScriptWithUpload, script name = ReadRAM  
+1070 1716184374142 XXXX 1716184374142, Thread 1070: XXXX 1716184374142, Entering Thread 1070: ToolCommUsb::readTransfer, sideData is 0x28 bytes long, transferDataLength is 0x2 bytes long  
+1070 1716184374145 XXXX 1716184374145, Thread 1070: XXXX 1716184374145, Exiting Thread 1070: ToolCommUsb::readTransfer,  cr.status = 0x0  
+1070 1716184374145 XXXX 1716184374145, Thread 1070: XXXX 1716184374145, Exiting Thread 1070: Commands::runScriptWithUpload  
+1070 1716184374145 XXXX 1716184374145, Thread 1070: XXXX 1716184374145, Entering Thread 1070: Commands::runScriptWithDownload, script name = WriteRAM  
+1070 1716184374149 XXXX 1716184374149, Thread 1070: XXXX 1716184374149, Exiting Thread 1070: Commands::runScriptWithDownload(WriteRAM)  
+1070 1716184374149 XXXX 1716184374149, Thread 1070: XXXX 1716184374149, Entering Thread 1070: Commands::runScriptWithUpload, script name = ReadRAM  
+1070 1716184374149 XXXX 1716184374149, Thread 1070: XXXX 1716184374149, Entering Thread 1070: ToolCommUsb::readTransfer, sideData is 0x28 bytes long, transferDataLength is 0x2 bytes long  
+1070 1716184374151 XXXX 1716184374151, Thread 1070: XXXX 1716184374151, Exiting Thread 1070: ToolCommUsb::readTransfer,  cr.status = 0x0  
+1070 1716184374151 XXXX 1716184374151, Thread 1070: XXXX 1716184374151, Exiting Thread 1070: Commands::runScriptWithUpload  
+1070 1716184374151 XXXX 1716184374151, Thread 1070: XXXX 1716184374151, Entering Thread 1070: Commands::runScriptWithDownload, script name = WriteRAM  
+1070 1716184374155 XXXX 1716184374155, Thread 1070: XXXX 1716184374155, Exiting Thread 1070: Commands::runScriptWithDownload(WriteRAM)  
+1070 1716184374155 XXXX 1716184374155, Thread 1070: XXXX 1716184374155, Entering Thread 1070: Commands::runScriptWithUpload, script name = ReadRAM  
+1070 1716184374155 XXXX 1716184374155, Thread 1070: XXXX 1716184374155, Entering Thread 1070: ToolCommUsb::readTransfer, sideData is 0x28 bytes long, transferDataLength is 0x2 bytes long  
+1070 1716184374157 XXXX 1716184374157, Thread 1070: XXXX 1716184374157, Exiting Thread 1070: ToolCommUsb::readTransfer,  cr.status = 0x0  
+1070 1716184374157 XXXX 1716184374157, Thread 1070: XXXX 1716184374157, Exiting Thread 1070: Commands::runScriptWithUpload  
+1070 1716184374157 XXXX 1716184374157, Thread 1070: XXXX 1716184374157, Entering Thread 1070: Commands::runScriptWithDownload, script name = WriteRAM  
+1070 1716184374161 XXXX 1716184374161, Thread 1070: XXXX 1716184374161, Exiting Thread 1070: Commands::runScriptWithDownload(WriteRAM)  
+1070 1716184374161 XXXX 1716184374161, Thread 1070: XXXX 1716184374161, Entering Thread 1070: Commands::runScriptWithUpload, script name = ReadRAM  
+1070 1716184374161 XXXX 1716184374161, Thread 1070: XXXX 1716184374161, Entering Thread 1070: ToolCommUsb::readTransfer, sideData is 0x28 bytes long, transferDataLength is 0x2 bytes long  
+1070 1716184374163 XXXX 1716184374163, Thread 1070: XXXX 1716184374163, Exiting Thread 1070: ToolCommUsb::readTransfer,  cr.status = 0x0  
+1070 1716184374163 XXXX 1716184374163, Thread 1070: XXXX 1716184374163, Exiting Thread 1070: Commands::runScriptWithUpload  
+1070 1716184374163 XXXX 1716184374163, Thread 1070: XXXX 1716184374163, Entering Thread 1070: Commands::runScriptWithDownload, script name = WriteRAM  
+1070 1716184374167 XXXX 1716184374167, Thread 1070: XXXX 1716184374167, Exiting Thread 1070: Commands::runScriptWithDownload(WriteRAM)  
+1070 1716184374167 XXXX 1716184374167, Thread 1070: XXXX 1716184374167, Entering Thread 1070: Commands::runScriptWithUpload, script name = ReadRAM  
+1070 1716184374167 XXXX 1716184374167, Thread 1070: XXXX 1716184374167, Entering Thread 1070: ToolCommUsb::readTransfer, sideData is 0x28 bytes long, transferDataLength is 0x2 bytes long  
+1070 1716184374169 XXXX 1716184374169, Thread 1070: XXXX 1716184374169, Exiting Thread 1070: ToolCommUsb::readTransfer,  cr.status = 0x0  
+1070 1716184374169 XXXX 1716184374169, Thread 1070: XXXX 1716184374169, Exiting Thread 1070: Commands::runScriptWithUpload  
+1070 1716184374169 XXXX 1716184374169, Thread 1070: XXXX 1716184374169, Entering Thread 1070: Commands::runScriptWithDownload, script name = WriteRAM  
+1070 1716184374173 XXXX 1716184374173, Thread 1070: XXXX 1716184374173, Exiting Thread 1070: Commands::runScriptWithDownload(WriteRAM)  
+1070 1716184374173 XXXX 1716184374173, Thread 1070: XXXX 1716184374173, Entering Thread 1070: Commands::runScriptWithUpload, script name = ReadRAM  
+1070 1716184374173 XXXX 1716184374173, Thread 1070: XXXX 1716184374173, Entering Thread 1070: ToolCommUsb::readTransfer, sideData is 0x28 bytes long, transferDataLength is 0x2 bytes long  
+1070 1716184374176 XXXX 1716184374176, Thread 1070: XXXX 1716184374176, Exiting Thread 1070: ToolCommUsb::readTransfer,  cr.status = 0x0  
+1070 1716184374176 XXXX 1716184374176, Thread 1070: XXXX 1716184374176, Exiting Thread 1070: Commands::runScriptWithUpload  
+1070 1716184374176 XXXX 1716184374176, Thread 1070: XXXX 1716184374176, Entering Thread 1070: Commands::runScriptWithDownload, script name = WriteRAM  
+1070 1716184374180 XXXX 1716184374180, Thread 1070: XXXX 1716184374180, Exiting Thread 1070: Commands::runScriptWithDownload(WriteRAM)  
+1070 1716184374180 XXXX 1716184374180, Thread 1070: XXXX 1716184374180, Entering Thread 1070: Commands::runScriptWithUpload, script name = ReadRAM  
+1070 1716184374180 XXXX 1716184374180, Thread 1070: XXXX 1716184374180, Entering Thread 1070: ToolCommUsb::readTransfer, sideData is 0x28 bytes long, transferDataLength is 0x2 bytes long  
+1070 1716184374183 XXXX 1716184374183, Thread 1070: XXXX 1716184374183, Exiting Thread 1070: ToolCommUsb::readTransfer,  cr.status = 0x0  
+1070 1716184374183 XXXX 1716184374183, Thread 1070: XXXX 1716184374183, Exiting Thread 1070: Commands::runScriptWithUpload  
+1070 1716184374183 XXXX 1716184374183, Thread 1070: XXXX 1716184374183, Entering Thread 1070: Commands::runScriptWithDownload, script name = WriteRAM  
+1070 1716184374187 XXXX 1716184374187, Thread 1070: XXXX 1716184374187, Exiting Thread 1070: Commands::runScriptWithDownload(WriteRAM)  
+1070 1716184374187 XXXX 1716184374187, Thread 1070: XXXX 1716184374187, Entering Thread 1070: Commands::runScriptWithUpload, script name = ReadRAM  
+1070 1716184374187 XXXX 1716184374187, Thread 1070: XXXX 1716184374187, Entering Thread 1070: ToolCommUsb::readTransfer, sideData is 0x28 bytes long, transferDataLength is 0x2 bytes long  
+1070 1716184374190 XXXX 1716184374190, Thread 1070: XXXX 1716184374190, Exiting Thread 1070: ToolCommUsb::readTransfer,  cr.status = 0x0  
+1070 1716184374190 XXXX 1716184374190, Thread 1070: XXXX 1716184374190, Exiting Thread 1070: Commands::runScriptWithUpload  
+1070 1716184374190 XXXX 1716184374190, Thread 1070: XXXX 1716184374190, Entering Thread 1070: Commands::runScriptWithDownload, script name = WriteRAM  
+1070 1716184374194 XXXX 1716184374194, Thread 1070: XXXX 1716184374194, Exiting Thread 1070: Commands::runScriptWithDownload(WriteRAM)  
+1070 1716184374194 XXXX 1716184374194, Thread 1070: XXXX 1716184374194, Entering Thread 1070: Commands::runScriptWithUpload, script name = ReadRAM  
+1070 1716184374194 XXXX 1716184374194, Thread 1070: XXXX 1716184374194, Entering Thread 1070: ToolCommUsb::readTransfer, sideData is 0x28 bytes long, transferDataLength is 0x2 bytes long  
+1070 1716184374197 XXXX 1716184374197, Thread 1070: XXXX 1716184374197, Exiting Thread 1070: ToolCommUsb::readTransfer,  cr.status = 0x0  
+1070 1716184374197 XXXX 1716184374197, Thread 1070: XXXX 1716184374197, Exiting Thread 1070: Commands::runScriptWithUpload  
+1070 1716184374197 XXXX 1716184374197, Thread 1070: XXXX 1716184374197, Entering Thread 1070: Commands::runScriptWithDownload, script name = WriteRAM  
+1070 1716184374201 XXXX 1716184374201, Thread 1070: XXXX 1716184374201, Exiting Thread 1070: Commands::runScriptWithDownload(WriteRAM)  
+1070 1716184374201 XXXX 1716184374201, Thread 1070: XXXX 1716184374201, Entering Thread 1070: Commands::runScriptWithUpload, script name = ReadRAM  
+1070 1716184374201 XXXX 1716184374201, Thread 1070: XXXX 1716184374201, Entering Thread 1070: ToolCommUsb::readTransfer, sideData is 0x28 bytes long, transferDataLength is 0x2 bytes long  
+1070 1716184374204 XXXX 1716184374204, Thread 1070: XXXX 1716184374204, Exiting Thread 1070: ToolCommUsb::readTransfer,  cr.status = 0x0  
+1070 1716184374204 XXXX 1716184374204, Thread 1070: XXXX 1716184374204, Exiting Thread 1070: Commands::runScriptWithUpload  
+1070 1716184374204 XXXX 1716184374204, Thread 1070: XXXX 1716184374204, Entering Thread 1070: Commands::runScriptWithDownload, script name = WriteRAM  
+1070 1716184374208 XXXX 1716184374208, Thread 1070: XXXX 1716184374208, Exiting Thread 1070: Commands::runScriptWithDownload(WriteRAM)  
+1070 1716184374208 XXXX 1716184374208, Thread 1070: XXXX 1716184374208, Entering Thread 1070: Commands::runScriptWithUpload, script name = ReadRAM  
+1070 1716184374208 XXXX 1716184374208, Thread 1070: XXXX 1716184374208, Entering Thread 1070: ToolCommUsb::readTransfer, sideData is 0x28 bytes long, transferDataLength is 0x2 bytes long  
+1070 1716184374210 XXXX 1716184374210, Thread 1070: XXXX 1716184374210, Exiting Thread 1070: ToolCommUsb::readTransfer,  cr.status = 0x0  
+1070 1716184374210 XXXX 1716184374210, Thread 1070: XXXX 1716184374210, Exiting Thread 1070: Commands::runScriptWithUpload  
+1070 1716184374210 XXXX 1716184374210, Thread 1070: XXXX 1716184374210, Entering Thread 1070: Commands::runScriptWithDownload, script name = WriteRAM  
+1070 1716184374214 XXXX 1716184374214, Thread 1070: XXXX 1716184374214, Exiting Thread 1070: Commands::runScriptWithDownload(WriteRAM)  
+1070 1716184374214 XXXX 1716184374214, Thread 1070: XXXX 1716184374214, Entering Thread 1070: Commands::runScriptWithUpload, script name = ReadRAM  
+1070 1716184374214 XXXX 1716184374214, Thread 1070: XXXX 1716184374214, Entering Thread 1070: ToolCommUsb::readTransfer, sideData is 0x28 bytes long, transferDataLength is 0x2 bytes long  
+1070 1716184374216 XXXX 1716184374216, Thread 1070: XXXX 1716184374216, Exiting Thread 1070: ToolCommUsb::readTransfer,  cr.status = 0x0  
+1070 1716184374216 XXXX 1716184374216, Thread 1070: XXXX 1716184374216, Exiting Thread 1070: Commands::runScriptWithUpload  
+1070 1716184374216 XXXX 1716184374216, Thread 1070: XXXX 1716184374216, Entering Thread 1070: Commands::runScriptWithDownload, script name = WriteRAM  
+1070 1716184374220 XXXX 1716184374220, Thread 1070: XXXX 1716184374220, Exiting Thread 1070: Commands::runScriptWithDownload(WriteRAM)  
+1070 1716184374220 XXXX 1716184374220, Thread 1070: XXXX 1716184374220, Entering Thread 1070: Commands::runScriptWithUpload, script name = ReadRAM  
+1070 1716184374220 XXXX 1716184374220, Thread 1070: XXXX 1716184374220, Entering Thread 1070: ToolCommUsb::readTransfer, sideData is 0x28 bytes long, transferDataLength is 0x2 bytes long  
+1070 1716184374223 XXXX 1716184374223, Thread 1070: XXXX 1716184374223, Exiting Thread 1070: ToolCommUsb::readTransfer,  cr.status = 0x0  
+1070 1716184374223 XXXX 1716184374223, Thread 1070: XXXX 1716184374223, Exiting Thread 1070: Commands::runScriptWithUpload  
+1070 1716184374223 XXXX 1716184374223, Thread 1070: XXXX 1716184374223, Entering Thread 1070: Commands::runScriptWithDownload, script name = WriteRAM  
+1070 1716184374226 XXXX 1716184374226, Thread 1070: XXXX 1716184374226, Exiting Thread 1070: Commands::runScriptWithDownload(WriteRAM)  
+1070 1716184374227 XXXX 1716184374227, Thread 1070: XXXX 1716184374227, Entering Thread 1070: Commands::runScriptWithUpload, script name = ReadRAM  
+1070 1716184374227 XXXX 1716184374227, Thread 1070: XXXX 1716184374227, Entering Thread 1070: ToolCommUsb::readTransfer, sideData is 0x28 bytes long, transferDataLength is 0x2 bytes long  
+1070 1716184374229 XXXX 1716184374229, Thread 1070: XXXX 1716184374229, Exiting Thread 1070: ToolCommUsb::readTransfer,  cr.status = 0x0  
+1070 1716184374229 XXXX 1716184374229, Thread 1070: XXXX 1716184374229, Exiting Thread 1070: Commands::runScriptWithUpload  
+1070 1716184374229 XXXX 1716184374229, Thread 1070: XXXX 1716184374229, Entering Thread 1070: Commands::runScriptWithDownload, script name = WriteRAM  
+1070 1716184374232 XXXX 1716184374232, Thread 1070: XXXX 1716184374232, Exiting Thread 1070: Commands::runScriptWithDownload(WriteRAM)  
+1070 1716184374233 XXXX 1716184374233, Thread 1070: XXXX 1716184374233, Entering Thread 1070: Commands::runScriptWithUpload, script name = ReadRAM  
+1070 1716184374233 XXXX 1716184374233, Thread 1070: XXXX 1716184374233, Entering Thread 1070: ToolCommUsb::readTransfer, sideData is 0x28 bytes long, transferDataLength is 0x2 bytes long  
+1070 1716184374235 XXXX 1716184374235, Thread 1070: XXXX 1716184374235, Exiting Thread 1070: ToolCommUsb::readTransfer,  cr.status = 0x0  
+1070 1716184374235 XXXX 1716184374235, Thread 1070: XXXX 1716184374235, Exiting Thread 1070: Commands::runScriptWithUpload  
+1070 1716184374235 XXXX 1716184374235, Thread 1070: XXXX 1716184374235, Entering Thread 1070: Commands::runScriptWithDownload, script name = WriteRAM  
+1070 1716184374238 XXXX 1716184374238, Thread 1070: XXXX 1716184374238, Exiting Thread 1070: Commands::runScriptWithDownload(WriteRAM)  
+1070 1716184374239 XXXX 1716184374239, Thread 1070: XXXX 1716184374239, Entering Thread 1070: Commands::runScriptWithUpload, script name = ReadRAM  
+1070 1716184374239 XXXX 1716184374239, Thread 1070: XXXX 1716184374239, Entering Thread 1070: ToolCommUsb::readTransfer, sideData is 0x28 bytes long, transferDataLength is 0x2 bytes long  
+1070 1716184374241 XXXX 1716184374241, Thread 1070: XXXX 1716184374241, Exiting Thread 1070: ToolCommUsb::readTransfer,  cr.status = 0x0  
+1070 1716184374241 XXXX 1716184374241, Thread 1070: XXXX 1716184374241, Exiting Thread 1070: Commands::runScriptWithUpload  
+1070 1716184374241 XXXX 1716184374241, Thread 1070: XXXX 1716184374241, Entering Thread 1070: Commands::runScriptWithDownload, script name = WriteRAM  
+1070 1716184374244 XXXX 1716184374244, Thread 1070: XXXX 1716184374244, Exiting Thread 1070: Commands::runScriptWithDownload(WriteRAM)  
+1070 1716184374244 XXXX 1716184374244, Thread 1070: XXXX 1716184374244, Entering Thread 1070: Commands::runScriptWithUpload, script name = ReadRAM  
+1070 1716184374244 XXXX 1716184374244, Thread 1070: XXXX 1716184374244, Entering Thread 1070: ToolCommUsb::readTransfer, sideData is 0x28 bytes long, transferDataLength is 0x2 bytes long  
+1070 1716184374247 XXXX 1716184374247, Thread 1070: XXXX 1716184374247, Exiting Thread 1070: ToolCommUsb::readTransfer,  cr.status = 0x0  
+1070 1716184374247 XXXX 1716184374247, Thread 1070: XXXX 1716184374247, Exiting Thread 1070: Commands::runScriptWithUpload  
+1070 1716184374247 XXXX 1716184374247, Thread 1070: XXXX 1716184374247, Entering Thread 1070: Commands::runScriptWithDownload, script name = WriteRAM  
+1070 1716184374251 XXXX 1716184374251, Thread 1070: XXXX 1716184374251, Exiting Thread 1070: Commands::runScriptWithDownload(WriteRAM)  
+1070 1716184374251 XXXX 1716184374251, Thread 1070: XXXX 1716184374251, Entering Thread 1070: Commands::runScriptWithUpload, script name = ReadRAM  
+1070 1716184374251 XXXX 1716184374251, Thread 1070: XXXX 1716184374251, Entering Thread 1070: ToolCommUsb::readTransfer, sideData is 0x28 bytes long, transferDataLength is 0x2 bytes long  
+1070 1716184374254 XXXX 1716184374254, Thread 1070: XXXX 1716184374253, Exiting Thread 1070: ToolCommUsb::readTransfer,  cr.status = 0x0  
+1070 1716184374254 XXXX 1716184374254, Thread 1070: XXXX 1716184374254, Exiting Thread 1070: Commands::runScriptWithUpload  
+1070 1716184374254 XXXX 1716184374254, Thread 1070: XXXX 1716184374254, Entering Thread 1070: Commands::runScriptWithDownload, script name = WriteRAM  
+1070 1716184374258 XXXX 1716184374258, Thread 1070: XXXX 1716184374258, Exiting Thread 1070: Commands::runScriptWithDownload(WriteRAM)  
+1070 1716184374258 XXXX 1716184374258, Thread 1070: XXXX 1716184374258, Entering Thread 1070: Commands::runScriptWithUpload, script name = ReadRAM  
+1070 1716184374258 XXXX 1716184374258, Thread 1070: XXXX 1716184374258, Entering Thread 1070: ToolCommUsb::readTransfer, sideData is 0x28 bytes long, transferDataLength is 0x2 bytes long  
+1070 1716184374261 XXXX 1716184374261, Thread 1070: XXXX 1716184374261, Exiting Thread 1070: ToolCommUsb::readTransfer,  cr.status = 0x0  
+1070 1716184374261 XXXX 1716184374261, Thread 1070: XXXX 1716184374261, Exiting Thread 1070: Commands::runScriptWithUpload  
+1070 1716184374261 XXXX 1716184374261, Thread 1070: XXXX 1716184374261, Entering Thread 1070: Commands::runScriptWithDownload, script name = WriteRAM  
+1070 1716184374265 XXXX 1716184374265, Thread 1070: XXXX 1716184374265, Exiting Thread 1070: Commands::runScriptWithDownload(WriteRAM)  
+1070 1716184374265 XXXX 1716184374265, Thread 1070: XXXX 1716184374265, Entering Thread 1070: Commands::runScriptWithUpload, script name = ReadRAM  
+1070 1716184374265 XXXX 1716184374265, Thread 1070: XXXX 1716184374265, Entering Thread 1070: ToolCommUsb::readTransfer, sideData is 0x28 bytes long, transferDataLength is 0x2 bytes long  
+1070 1716184374268 XXXX 1716184374268, Thread 1070: XXXX 1716184374268, Exiting Thread 1070: ToolCommUsb::readTransfer,  cr.status = 0x0  
+1070 1716184374268 XXXX 1716184374268, Thread 1070: XXXX 1716184374268, Exiting Thread 1070: Commands::runScriptWithUpload  
+1070 1716184374268 XXXX 1716184374268, Thread 1070: XXXX 1716184374268, Entering Thread 1070: Commands::runScriptWithDownload, script name = WriteRAM  
+1070 1716184374272 XXXX 1716184374272, Thread 1070: XXXX 1716184374272, Exiting Thread 1070: Commands::runScriptWithDownload(WriteRAM)  
+1070 1716184374272 XXXX 1716184374272, Thread 1070: XXXX 1716184374272, Entering Thread 1070: Commands::runScriptWithUpload, script name = ReadRAM  
+1070 1716184374272 XXXX 1716184374272, Thread 1070: XXXX 1716184374272, Entering Thread 1070: ToolCommUsb::readTransfer, sideData is 0x28 bytes long, transferDataLength is 0x2 bytes long  
+1070 1716184374274 XXXX 1716184374274, Thread 1070: XXXX 1716184374274, Exiting Thread 1070: ToolCommUsb::readTransfer,  cr.status = 0x0  
+1070 1716184374274 XXXX 1716184374274, Thread 1070: XXXX 1716184374274, Exiting Thread 1070: Commands::runScriptWithUpload  
+1070 1716184374274 XXXX 1716184374274, Thread 1070: XXXX 1716184374274, Entering Thread 1070: Commands::runScriptWithDownload, script name = WriteRAM  
+1070 1716184374278 XXXX 1716184374278, Thread 1070: XXXX 1716184374278, Exiting Thread 1070: Commands::runScriptWithDownload(WriteRAM)  
+1070 1716184374278 XXXX 1716184374278, Thread 1070: XXXX 1716184374278, Entering Thread 1070: Commands::runScriptWithUpload, script name = ReadRAM  
+1070 1716184374278 XXXX 1716184374278, Thread 1070: XXXX 1716184374278, Entering Thread 1070: ToolCommUsb::readTransfer, sideData is 0x28 bytes long, transferDataLength is 0x2 bytes long  
+1070 1716184374281 XXXX 1716184374281, Thread 1070: XXXX 1716184374281, Exiting Thread 1070: ToolCommUsb::readTransfer,  cr.status = 0x0  
+1070 1716184374281 XXXX 1716184374281, Thread 1070: XXXX 1716184374281, Exiting Thread 1070: Commands::runScriptWithUpload  
+1070 1716184374281 XXXX 1716184374281, Thread 1070: XXXX 1716184374281, Entering Thread 1070: Commands::runScriptWithDownload, script name = WriteRAM  
+1070 1716184374285 XXXX 1716184374285, Thread 1070: XXXX 1716184374285, Exiting Thread 1070: Commands::runScriptWithDownload(WriteRAM)  
+1070 1716184374285 XXXX 1716184374285, Thread 1070: XXXX 1716184374285, Entering Thread 1070: Commands::runScriptWithUpload, script name = ReadRAM  
+1070 1716184374285 XXXX 1716184374285, Thread 1070: XXXX 1716184374285, Entering Thread 1070: ToolCommUsb::readTransfer, sideData is 0x28 bytes long, transferDataLength is 0x2 bytes long  
+1070 1716184374287 XXXX 1716184374287, Thread 1070: XXXX 1716184374287, Exiting Thread 1070: ToolCommUsb::readTransfer,  cr.status = 0x0  
+1070 1716184374287 XXXX 1716184374287, Thread 1070: XXXX 1716184374287, Exiting Thread 1070: Commands::runScriptWithUpload  
+1070 1716184374287 XXXX 1716184374287, Thread 1070: XXXX 1716184374287, Entering Thread 1070: Commands::runScriptWithDownload, script name = WriteRAM  
+1070 1716184374291 XXXX 1716184374291, Thread 1070: XXXX 1716184374291, Exiting Thread 1070: Commands::runScriptWithDownload(WriteRAM)  
+1070 1716184374291 XXXX 1716184374291, Thread 1070: XXXX 1716184374291, Entering Thread 1070: Commands::runScriptWithUpload, script name = ReadRAM  
+1070 1716184374291 XXXX 1716184374291, Thread 1070: XXXX 1716184374291, Entering Thread 1070: ToolCommUsb::readTransfer, sideData is 0x28 bytes long, transferDataLength is 0x2 bytes long  
+1070 1716184374293 XXXX 1716184374293, Thread 1070: XXXX 1716184374293, Exiting Thread 1070: ToolCommUsb::readTransfer,  cr.status = 0x0  
+1070 1716184374293 XXXX 1716184374293, Thread 1070: XXXX 1716184374293, Exiting Thread 1070: Commands::runScriptWithUpload  
+1070 1716184374293 XXXX 1716184374293, Thread 1070: XXXX 1716184374293, Entering Thread 1070: Commands::runScriptWithDownload, script name = WriteRAM  
+1070 1716184374297 XXXX 1716184374297, Thread 1070: XXXX 1716184374297, Exiting Thread 1070: Commands::runScriptWithDownload(WriteRAM)  
+1070 1716184374297 XXXX 1716184374297, Thread 1070: XXXX 1716184374297, Entering Thread 1070: Commands::runScriptWithUpload, script name = ReadRAM  
+1070 1716184374297 XXXX 1716184374297, Thread 1070: XXXX 1716184374297, Entering Thread 1070: ToolCommUsb::readTransfer, sideData is 0x28 bytes long, transferDataLength is 0x2 bytes long  
+1070 1716184374299 XXXX 1716184374299, Thread 1070: XXXX 1716184374299, Exiting Thread 1070: ToolCommUsb::readTransfer,  cr.status = 0x0  
+1070 1716184374299 XXXX 1716184374299, Thread 1070: XXXX 1716184374299, Exiting Thread 1070: Commands::runScriptWithUpload  
+1070 1716184374299 XXXX 1716184374299, Thread 1070: XXXX 1716184374299, Entering Thread 1070: Commands::runScriptWithDownload, script name = WriteRAM  
+1070 1716184374303 XXXX 1716184374303, Thread 1070: XXXX 1716184374303, Exiting Thread 1070: Commands::runScriptWithDownload(WriteRAM)  
+1070 1716184374303 XXXX 1716184374303, Thread 1070: XXXX 1716184374303, Entering Thread 1070: Commands::runScriptWithUpload, script name = ReadRAM  
+1070 1716184374303 XXXX 1716184374303, Thread 1070: XXXX 1716184374303, Entering Thread 1070: ToolCommUsb::readTransfer, sideData is 0x28 bytes long, transferDataLength is 0x2 bytes long  
+1070 1716184374306 XXXX 1716184374306, Thread 1070: XXXX 1716184374306, Exiting Thread 1070: ToolCommUsb::readTransfer,  cr.status = 0x0  
+1070 1716184374306 XXXX 1716184374306, Thread 1070: XXXX 1716184374306, Exiting Thread 1070: Commands::runScriptWithUpload  
+1070 1716184374306 XXXX 1716184374306, Thread 1070: XXXX 1716184374306, Entering Thread 1070: Commands::runScriptWithDownload, script name = WriteRAM  
+1070 1716184374310 XXXX 1716184374310, Thread 1070: XXXX 1716184374310, Exiting Thread 1070: Commands::runScriptWithDownload(WriteRAM)  
+1070 1716184374310 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 Post:SetFreezePerihperalInfo
+1070 1716184374310 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 Return Value
+1070 1716184374310 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 none
+1070 1716184374310 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 Return End
+
+1070 1716184374310 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 Pre:GetPC
+1070 1716184374310 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 Payload
+1070 1716184374310 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 null
+1070 1716184374310 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 Payload End
+1070 1716184374310 XXXX 1716184374310, Thread 1070: XXXX 1716184374310, Entering Thread 1070: Commands::runScriptBasic, script name = GetPC, timeOut = -1 ms  
+1070 1716184374312 XXXX 1716184374312, Thread 1070: XXXX 1716184374312, Exiting Thread 1070: Commands::runScriptBasic  
+1070 1716184374312 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 Post:GetPC
+1070 1716184374312 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 Return Value
+1070 1716184374312 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 146ca
+1070 1716184374312 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 Return End
+
+1070 1716184374312 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 Pre:RunTarget
+1070 1716184374312 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 Payload
+1070 1716184374312 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 com.microchip.mplab.mdbcore.RI4Tool.DebugHandler@5d02e53b
+1070 1716184374312 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 Payload End
+1070 1716184374312 XXXX 1716184374312, Thread 1070: XXXX 1716184374312, Entering Thread 1070: Commands::runScriptBasic, script name = Run, timeOut = -1 ms  
+1070 1716184374312 XXXX 1716184374312, Thread 1070: XXXX 1716184374312, Exiting Thread 1070: Commands::runScriptBasic  
+1070 1716184374313 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 Post:RunTarget
+1070 1716184374313 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 Return Value
+1070 1716184374313 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 true
+1070 1716184374313 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 Return End
+1070 1716184374570 XXXX 1716184374570, Thread 1070: XXXX 1716184374570, Entering Thread 1070: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1070 1716184374571 XXXX 1716184374571, Thread 1070: XXXX 1716184374571, Exiting Thread 1070: Commands::runScriptBasic  
+1070 1716184374672 XXXX 1716184374672, Thread 1070: XXXX 1716184374672, Entering Thread 1070: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1070 1716184374673 XXXX 1716184374673, Thread 1070: XXXX 1716184374673, Exiting Thread 1070: Commands::runScriptBasic  
+1070 1716184374774 XXXX 1716184374774, Thread 1070: XXXX 1716184374774, Entering Thread 1070: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1070 1716184374776 XXXX 1716184374776, Thread 1070: XXXX 1716184374776, Exiting Thread 1070: Commands::runScriptBasic  
+1070 1716184374875 XXXX 1716184374875, Thread 1070: XXXX 1716184374875, Entering Thread 1070: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1070 1716184374876 XXXX 1716184374876, Thread 1070: XXXX 1716184374876, Exiting Thread 1070: Commands::runScriptBasic  
+1070 1716184374976 XXXX 1716184374976, Thread 1070: XXXX 1716184374976, Entering Thread 1070: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1070 1716184374977 XXXX 1716184374977, Thread 1070: XXXX 1716184374977, Exiting Thread 1070: Commands::runScriptBasic  
+1070 1716184375077 XXXX 1716184375077, Thread 1070: XXXX 1716184375077, Entering Thread 1070: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1070 1716184375078 XXXX 1716184375078, Thread 1070: XXXX 1716184375078, Exiting Thread 1070: Commands::runScriptBasic  
+1070 1716184375179 XXXX 1716184375179, Thread 1070: XXXX 1716184375179, Entering Thread 1070: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1070 1716184375180 XXXX 1716184375180, Thread 1070: XXXX 1716184375180, Exiting Thread 1070: Commands::runScriptBasic  
+1070 1716184375279 XXXX 1716184375279, Thread 1070: XXXX 1716184375279, Entering Thread 1070: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1070 1716184375281 XXXX 1716184375281, Thread 1070: XXXX 1716184375281, Exiting Thread 1070: Commands::runScriptBasic  
+1070 1716184375380 XXXX 1716184375380, Thread 1070: XXXX 1716184375380, Entering Thread 1070: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1070 1716184375381 XXXX 1716184375381, Thread 1070: XXXX 1716184375381, Exiting Thread 1070: Commands::runScriptBasic  
+1070 1716184375482 XXXX 1716184375482, Thread 1070: XXXX 1716184375482, Entering Thread 1070: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1070 1716184375483 XXXX 1716184375483, Thread 1070: XXXX 1716184375483, Exiting Thread 1070: Commands::runScriptBasic  
+1070 1716184375582 XXXX 1716184375582, Thread 1070: XXXX 1716184375582, Entering Thread 1070: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1070 1716184375584 XXXX 1716184375584, Thread 1070: XXXX 1716184375584, Exiting Thread 1070: Commands::runScriptBasic  
+1070 1716184375685 XXXX 1716184375685, Thread 1070: XXXX 1716184375685, Entering Thread 1070: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1070 1716184375686 XXXX 1716184375686, Thread 1070: XXXX 1716184375686, Exiting Thread 1070: Commands::runScriptBasic  
+1070 1716184375787 XXXX 1716184375787, Thread 1070: XXXX 1716184375787, Entering Thread 1070: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1070 1716184375788 XXXX 1716184375788, Thread 1070: XXXX 1716184375788, Exiting Thread 1070: Commands::runScriptBasic  
+1070 1716184375889 XXXX 1716184375889, Thread 1070: XXXX 1716184375889, Entering Thread 1070: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1070 1716184375890 XXXX 1716184375890, Thread 1070: XXXX 1716184375890, Exiting Thread 1070: Commands::runScriptBasic  
+1070 1716184375991 XXXX 1716184375991, Thread 1070: XXXX 1716184375991, Entering Thread 1070: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1070 1716184375992 XXXX 1716184375992, Thread 1070: XXXX 1716184375992, Exiting Thread 1070: Commands::runScriptBasic  
+1070 1716184376092 XXXX 1716184376092, Thread 1070: XXXX 1716184376092, Entering Thread 1070: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1070 1716184376093 XXXX 1716184376093, Thread 1070: XXXX 1716184376093, Exiting Thread 1070: Commands::runScriptBasic  
+1070 1716184376194 XXXX 1716184376194, Thread 1070: XXXX 1716184376194, Entering Thread 1070: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1070 1716184376195 XXXX 1716184376195, Thread 1070: XXXX 1716184376195, Exiting Thread 1070: Commands::runScriptBasic  
+1070 1716184376294 XXXX 1716184376294, Thread 1070: XXXX 1716184376294, Entering Thread 1070: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1070 1716184376295 XXXX 1716184376295, Thread 1070: XXXX 1716184376295, Exiting Thread 1070: Commands::runScriptBasic  
+1070 1716184376395 XXXX 1716184376395, Thread 1070: XXXX 1716184376395, Entering Thread 1070: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1070 1716184376396 XXXX 1716184376396, Thread 1070: XXXX 1716184376396, Exiting Thread 1070: Commands::runScriptBasic  
+1070 1716184376498 XXXX 1716184376498, Thread 1070: XXXX 1716184376498, Entering Thread 1070: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1070 1716184376499 XXXX 1716184376499, Thread 1070: XXXX 1716184376499, Exiting Thread 1070: Commands::runScriptBasic  
+1070 1716184376599 XXXX 1716184376599, Thread 1070: XXXX 1716184376599, Entering Thread 1070: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1070 1716184376600 XXXX 1716184376600, Thread 1070: XXXX 1716184376600, Exiting Thread 1070: Commands::runScriptBasic  
+1070 1716184376700 XXXX 1716184376700, Thread 1070: XXXX 1716184376700, Entering Thread 1070: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1070 1716184376701 XXXX 1716184376701, Thread 1070: XXXX 1716184376701, Exiting Thread 1070: Commands::runScriptBasic  
+1070 1716184376801 XXXX 1716184376801, Thread 1070: XXXX 1716184376801, Entering Thread 1070: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1070 1716184376802 XXXX 1716184376802, Thread 1070: XXXX 1716184376802, Exiting Thread 1070: Commands::runScriptBasic  
+1070 1716184376902 XXXX 1716184376902, Thread 1070: XXXX 1716184376902, Entering Thread 1070: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1070 1716184376904 XXXX 1716184376904, Thread 1070: XXXX 1716184376904, Exiting Thread 1070: Commands::runScriptBasic  
+1070 1716184377004 XXXX 1716184377004, Thread 1070: XXXX 1716184377004, Entering Thread 1070: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1070 1716184377005 XXXX 1716184377005, Thread 1070: XXXX 1716184377005, Exiting Thread 1070: Commands::runScriptBasic  
+1070 1716184377106 XXXX 1716184377106, Thread 1070: XXXX 1716184377106, Entering Thread 1070: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1070 1716184377107 XXXX 1716184377107, Thread 1070: XXXX 1716184377107, Exiting Thread 1070: Commands::runScriptBasic  
+1070 1716184377208 XXXX 1716184377208, Thread 1070: XXXX 1716184377208, Entering Thread 1070: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1070 1716184377209 XXXX 1716184377209, Thread 1070: XXXX 1716184377209, Exiting Thread 1070: Commands::runScriptBasic  
+1070 1716184377309 XXXX 1716184377309, Thread 1070: XXXX 1716184377309, Entering Thread 1070: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1070 1716184377310 XXXX 1716184377310, Thread 1070: XXXX 1716184377310, Exiting Thread 1070: Commands::runScriptBasic  
+1070 1716184377412 XXXX 1716184377412, Thread 1070: XXXX 1716184377412, Entering Thread 1070: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1070 1716184377413 XXXX 1716184377413, Thread 1070: XXXX 1716184377413, Exiting Thread 1070: Commands::runScriptBasic  
+1070 1716184377513 XXXX 1716184377513, Thread 1070: XXXX 1716184377513, Entering Thread 1070: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1070 1716184377514 XXXX 1716184377514, Thread 1070: XXXX 1716184377514, Exiting Thread 1070: Commands::runScriptBasic  
+1070 1716184377615 XXXX 1716184377615, Thread 1070: XXXX 1716184377615, Entering Thread 1070: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1070 1716184377617 XXXX 1716184377616, Thread 1070: XXXX 1716184377616, Exiting Thread 1070: Commands::runScriptBasic  
+1070 1716184377716 XXXX 1716184377716, Thread 1070: XXXX 1716184377716, Entering Thread 1070: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1070 1716184377717 XXXX 1716184377717, Thread 1070: XXXX 1716184377717, Exiting Thread 1070: Commands::runScriptBasic  
+1070 1716184377817 XXXX 1716184377817, Thread 1070: XXXX 1716184377817, Entering Thread 1070: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1070 1716184377818 XXXX 1716184377818, Thread 1070: XXXX 1716184377818, Exiting Thread 1070: Commands::runScriptBasic  
+1070 1716184377919 XXXX 1716184377919, Thread 1070: XXXX 1716184377919, Entering Thread 1070: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1070 1716184377920 XXXX 1716184377920, Thread 1070: XXXX 1716184377920, Exiting Thread 1070: Commands::runScriptBasic  
+1070 1716184378021 XXXX 1716184378021, Thread 1070: XXXX 1716184378021, Entering Thread 1070: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1070 1716184378022 XXXX 1716184378022, Thread 1070: XXXX 1716184378022, Exiting Thread 1070: Commands::runScriptBasic  
+1070 1716184378122 XXXX 1716184378122, Thread 1070: XXXX 1716184378122, Entering Thread 1070: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1070 1716184378123 XXXX 1716184378123, Thread 1070: XXXX 1716184378123, Exiting Thread 1070: Commands::runScriptBasic  
+1070 1716184378224 XXXX 1716184378224, Thread 1070: XXXX 1716184378224, Entering Thread 1070: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1070 1716184378225 XXXX 1716184378225, Thread 1070: XXXX 1716184378225, Exiting Thread 1070: Commands::runScriptBasic  
+1070 1716184378326 XXXX 1716184378326, Thread 1070: XXXX 1716184378326, Entering Thread 1070: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1070 1716184378328 XXXX 1716184378328, Thread 1070: XXXX 1716184378328, Exiting Thread 1070: Commands::runScriptBasic  
+1070 1716184378428 XXXX 1716184378428, Thread 1070: XXXX 1716184378428, Entering Thread 1070: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1070 1716184378430 XXXX 1716184378430, Thread 1070: XXXX 1716184378429, Exiting Thread 1070: Commands::runScriptBasic  
+1070 1716184378528 XXXX 1716184378528, Thread 1070: XXXX 1716184378528, Entering Thread 1070: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1070 1716184378530 XXXX 1716184378530, Thread 1070: XXXX 1716184378530, Exiting Thread 1070: Commands::runScriptBasic  
+1070 1716184378631 XXXX 1716184378631, Thread 1070: XXXX 1716184378631, Entering Thread 1070: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1070 1716184378633 XXXX 1716184378633, Thread 1070: XXXX 1716184378633, Exiting Thread 1070: Commands::runScriptBasic  
+1070 1716184378734 XXXX 1716184378734, Thread 1070: XXXX 1716184378734, Entering Thread 1070: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+1070 1716184378735 XXXX 1716184378735, Thread 1070: XXXX 1716184378735, Exiting Thread 1070: Commands::runScriptBasic  
+
+1070 1716184378739 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 Pre:GetPC
+1070 1716184378739 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 Payload
+1070 1716184378739 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 null
+1070 1716184378739 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 Payload End
+1070 1716184378739 XXXX 1716184378739, Thread 1070: XXXX 1716184378739, Entering Thread 1070: Commands::runScriptBasic, script name = GetPC, timeOut = -1 ms  
+1070 1716184378741 XXXX 1716184378741, Thread 1070: Type = runScript, Script name = GetPC, Status = 0xa00
+ 
+
+311 1716184378747 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 Pre:GetPC
+311 1716184378747 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 Payload
+311 1716184378747 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 null
+311 1716184378747 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 Payload End
+311 1716184378747 XXXX 1716184378747, Thread 311: XXXX 1716184378747, Entering Thread 311: Commands::runScriptBasic, script name = GetPC, timeOut = -1 ms  
+311 1716184378748 XXXX 1716184378748, Thread 311: Type = runScript, Script name = GetPC, Status = 0xa00
+ 
+
+311 1716184378750 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 Pre:DebugReadTargetMemory
+311 1716184378750 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 Payload
+311 1716184378750 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 FileRegs
+311 1716184378750 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 760
+311 1716184378750 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 761
+311 1716184378750 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 Length = 2
+311 1716184378750 GEN4_TO_CONTROLLER_LOG:GEN4_DEBUG_INT_LOG_PIC24FJ512GU408 Payload End
+311 1716184378750 XXXX 1716184378750, Thread 311: XXXX 1716184378750, Entering Thread 311: Commands::runScriptWithUpload, script name = ReadRAM  
+311 1716184378750 XXXX 1716184378750, Thread 311: XXXX 1716184378750, Entering Thread 311: ToolCommUsb::readTransfer, sideData is 0x28 bytes long, transferDataLength is 0x2 bytes long  
+311 1716184461095 XXXX 1716184461095, Thread 311: com.Send returned false 

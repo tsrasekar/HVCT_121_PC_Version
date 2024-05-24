@@ -1,0 +1,5 @@
+build/default/production/_ext/1606259981/CLOCK.o: \
+ ../../HVCT_121_MASTER_C_FILES/CLOCK.c \
+ ../../HVCT_121_MASTER_C_FILES/../HVCT_121_MASTER_H_FILES/clock.h
+
+../../HVCT_121_MASTER_C_FILES/../HVCT_121_MASTER_H_FILES/clock.h:

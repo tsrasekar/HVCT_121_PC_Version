@@ -1,0 +1,297 @@
+#
+# Generated Makefile - do not edit!
+#
+# Edit the Makefile in the project folder instead (../Makefile). Each target
+# has a -pre and a -post target defined where you can add customized code.
+#
+# This makefile implements configuration specific macros and targets.
+
+
+# Include project Makefile
+ifeq "${IGNORE_LOCAL}" "TRUE"
+# do not include local makefile. User is passing all local related variables already
+else
+include Makefile
+# Include makefile containing local settings
+ifeq "$(wildcard nbproject/Makefile-local-default.mk)" "nbproject/Makefile-local-default.mk"
+include nbproject/Makefile-local-default.mk
+endif
+endif
+
+# Environment
+MKDIR=gnumkdir -p
+RM=rm -f 
+MV=mv 
+CP=cp 
+
+# Macros
+CND_CONF=default
+ifeq ($(TYPE_IMAGE), DEBUG_RUN)
+IMAGE_TYPE=debug
+OUTPUT_SUFFIX=elf
+DEBUGGABLE_SUFFIX=elf
+FINAL_IMAGE=${DISTDIR}/HVCT_121_MASTER.X.${IMAGE_TYPE}.${OUTPUT_SUFFIX}
+else
+IMAGE_TYPE=production
+OUTPUT_SUFFIX=hex
+DEBUGGABLE_SUFFIX=elf
+FINAL_IMAGE=${DISTDIR}/HVCT_121_MASTER.X.${IMAGE_TYPE}.${OUTPUT_SUFFIX}
+endif
+
+ifeq ($(COMPARE_BUILD), true)
+COMPARISON_BUILD=-mafrlcsj
+else
+COMPARISON_BUILD=
+endif
+
+# Object Directory
+OBJECTDIR=build/${CND_CONF}/${IMAGE_TYPE}
+
+# Distribution Directory
+DISTDIR=dist/${CND_CONF}/${IMAGE_TYPE}
+
+# Source Files Quoted if spaced
+SOURCEFILES_QUOTED_IF_SPACED=../../HVCT_121_MASTER_C_FILES/DELAY.c ../../HVCT_121_MASTER_C_FILES/HVCT_121_MASTER_INITIALIZATION.c ../../HVCT_121_MASTER_C_FILES/HVCT_121_MASTER_ISR.c ../../HVCT_121_MASTER_C_FILES/HVCT_121_MASTER_MAIN.c ../../HVCT_121_MASTER_C_FILES/CLOCK.c ../../HVCT_121_MASTER_C_FILES/HVCT_121_MASTER_I2C_FUNCTIONS.c ../../HVCT_121_MASTER_C_FILES/HVCT_121_MASTER_LCD_DISPLAYS_FUNCTIONS.c ../../HVCT_121_MASTER_C_FILES/HVCT_121_MASTER_VERSION.c ../../HVCT_121_MASTER_C_FILES/HVCT_121_MASTER_STANDARD_PERIPHERALS.c ../../HVCT_121_MASTER_C_FILES/HVCT_121_MASTER_STANDARD_FUNCTIONS.c ../../HVCT_121_MASTER_C_FILES/HVCT_121_MASTER_ANALYSE.c ../../HVCT_121_MASTER_C_FILES/HVCT_121_MASTER_STATE_DIAGRAM.c ../../HVCT_121_MASTER_C_FILES/HVCT_121_MASTER_TONE.c
+
+# Object Files Quoted if spaced
+OBJECTFILES_QUOTED_IF_SPACED=${OBJECTDIR}/_ext/1606259981/DELAY.o ${OBJECTDIR}/_ext/1606259981/HVCT_121_MASTER_INITIALIZATION.o ${OBJECTDIR}/_ext/1606259981/HVCT_121_MASTER_ISR.o ${OBJECTDIR}/_ext/1606259981/HVCT_121_MASTER_MAIN.o ${OBJECTDIR}/_ext/1606259981/CLOCK.o ${OBJECTDIR}/_ext/1606259981/HVCT_121_MASTER_I2C_FUNCTIONS.o ${OBJECTDIR}/_ext/1606259981/HVCT_121_MASTER_LCD_DISPLAYS_FUNCTIONS.o ${OBJECTDIR}/_ext/1606259981/HVCT_121_MASTER_VERSION.o ${OBJECTDIR}/_ext/1606259981/HVCT_121_MASTER_STANDARD_PERIPHERALS.o ${OBJECTDIR}/_ext/1606259981/HVCT_121_MASTER_STANDARD_FUNCTIONS.o ${OBJECTDIR}/_ext/1606259981/HVCT_121_MASTER_ANALYSE.o ${OBJECTDIR}/_ext/1606259981/HVCT_121_MASTER_STATE_DIAGRAM.o ${OBJECTDIR}/_ext/1606259981/HVCT_121_MASTER_TONE.o
+POSSIBLE_DEPFILES=${OBJECTDIR}/_ext/1606259981/DELAY.o.d ${OBJECTDIR}/_ext/1606259981/HVCT_121_MASTER_INITIALIZATION.o.d ${OBJECTDIR}/_ext/1606259981/HVCT_121_MASTER_ISR.o.d ${OBJECTDIR}/_ext/1606259981/HVCT_121_MASTER_MAIN.o.d ${OBJECTDIR}/_ext/1606259981/CLOCK.o.d ${OBJECTDIR}/_ext/1606259981/HVCT_121_MASTER_I2C_FUNCTIONS.o.d ${OBJECTDIR}/_ext/1606259981/HVCT_121_MASTER_LCD_DISPLAYS_FUNCTIONS.o.d ${OBJECTDIR}/_ext/1606259981/HVCT_121_MASTER_VERSION.o.d ${OBJECTDIR}/_ext/1606259981/HVCT_121_MASTER_STANDARD_PERIPHERALS.o.d ${OBJECTDIR}/_ext/1606259981/HVCT_121_MASTER_STANDARD_FUNCTIONS.o.d ${OBJECTDIR}/_ext/1606259981/HVCT_121_MASTER_ANALYSE.o.d ${OBJECTDIR}/_ext/1606259981/HVCT_121_MASTER_STATE_DIAGRAM.o.d ${OBJECTDIR}/_ext/1606259981/HVCT_121_MASTER_TONE.o.d
+
+# Object Files
+OBJECTFILES=${OBJECTDIR}/_ext/1606259981/DELAY.o ${OBJECTDIR}/_ext/1606259981/HVCT_121_MASTER_INITIALIZATION.o ${OBJECTDIR}/_ext/1606259981/HVCT_121_MASTER_ISR.o ${OBJECTDIR}/_ext/1606259981/HVCT_121_MASTER_MAIN.o ${OBJECTDIR}/_ext/1606259981/CLOCK.o ${OBJECTDIR}/_ext/1606259981/HVCT_121_MASTER_I2C_FUNCTIONS.o ${OBJECTDIR}/_ext/1606259981/HVCT_121_MASTER_LCD_DISPLAYS_FUNCTIONS.o ${OBJECTDIR}/_ext/1606259981/HVCT_121_MASTER_VERSION.o ${OBJECTDIR}/_ext/1606259981/HVCT_121_MASTER_STANDARD_PERIPHERALS.o ${OBJECTDIR}/_ext/1606259981/HVCT_121_MASTER_STANDARD_FUNCTIONS.o ${OBJECTDIR}/_ext/1606259981/HVCT_121_MASTER_ANALYSE.o ${OBJECTDIR}/_ext/1606259981/HVCT_121_MASTER_STATE_DIAGRAM.o ${OBJECTDIR}/_ext/1606259981/HVCT_121_MASTER_TONE.o
+
+# Source Files
+SOURCEFILES=../../HVCT_121_MASTER_C_FILES/DELAY.c ../../HVCT_121_MASTER_C_FILES/HVCT_121_MASTER_INITIALIZATION.c ../../HVCT_121_MASTER_C_FILES/HVCT_121_MASTER_ISR.c ../../HVCT_121_MASTER_C_FILES/HVCT_121_MASTER_MAIN.c ../../HVCT_121_MASTER_C_FILES/CLOCK.c ../../HVCT_121_MASTER_C_FILES/HVCT_121_MASTER_I2C_FUNCTIONS.c ../../HVCT_121_MASTER_C_FILES/HVCT_121_MASTER_LCD_DISPLAYS_FUNCTIONS.c ../../HVCT_121_MASTER_C_FILES/HVCT_121_MASTER_VERSION.c ../../HVCT_121_MASTER_C_FILES/HVCT_121_MASTER_STANDARD_PERIPHERALS.c ../../HVCT_121_MASTER_C_FILES/HVCT_121_MASTER_STANDARD_FUNCTIONS.c ../../HVCT_121_MASTER_C_FILES/HVCT_121_MASTER_ANALYSE.c ../../HVCT_121_MASTER_C_FILES/HVCT_121_MASTER_STATE_DIAGRAM.c ../../HVCT_121_MASTER_C_FILES/HVCT_121_MASTER_TONE.c
+
+
+
+CFLAGS=
+ASFLAGS=
+LDLIBSOPTIONS=
+
+############# Tool locations ##########################################
+# If you copy a project from one host to another, the path where the  #
+# compiler is installed may be different.                             #
+# If you open this project with MPLAB X in the new host, this         #
+# makefile will be regenerated and the paths will be corrected.       #
+#######################################################################
+# fixDeps replaces a bunch of sed/cat/printf statements that slow down the build
+FIXDEPS=fixDeps
+
+.build-conf:  ${BUILD_SUBPROJECTS}
+ifneq ($(INFORMATION_MESSAGE), )
+	@echo $(INFORMATION_MESSAGE)
+endif
+	${MAKE}  -f nbproject/Makefile-default.mk ${DISTDIR}/HVCT_121_MASTER.X.${IMAGE_TYPE}.${OUTPUT_SUFFIX}
+
+MP_PROCESSOR_OPTION=24FJ512GU408
+MP_LINKER_FILE_OPTION=,--script=p24FJ512GU408.gld
+# ------------------------------------------------------------------------------------
+# Rules for buildStep: compile
+ifeq ($(TYPE_IMAGE), DEBUG_RUN)
+${OBJECTDIR}/_ext/1606259981/DELAY.o: ../../HVCT_121_MASTER_C_FILES/DELAY.c  .generated_files/flags/default/e5a7b489b3c33cdecb1ac71524f7ce00443f96e4 .generated_files/flags/default/da39a3ee5e6b4b0d3255bfef95601890afd80709
+	@${MKDIR} "${OBJECTDIR}/_ext/1606259981" 
+	@${RM} ${OBJECTDIR}/_ext/1606259981/DELAY.o.d 
+	@${RM} ${OBJECTDIR}/_ext/1606259981/DELAY.o 
+	${MP_CC} $(MP_EXTRA_CC_PRE)  ../../HVCT_121_MASTER_C_FILES/DELAY.c  -o ${OBJECTDIR}/_ext/1606259981/DELAY.o  -c -mcpu=$(MP_PROCESSOR_OPTION)  -MP -MMD -MF "${OBJECTDIR}/_ext/1606259981/DELAY.o.d"      -g -D__DEBUG -D__MPLAB_DEBUGGER_ICD4=1  -mno-eds-warn  -omf=elf -DXPRJ_default=$(CND_CONF)    $(COMPARISON_BUILD)  -mlarge-code -msmall-data -O0 -msmart-io=1 -Wall -msfr-warn=off   
+	
+${OBJECTDIR}/_ext/1606259981/HVCT_121_MASTER_INITIALIZATION.o: ../../HVCT_121_MASTER_C_FILES/HVCT_121_MASTER_INITIALIZATION.c  .generated_files/flags/default/d52373827ac93c83f9108ca130e939049fee60f3 .generated_files/flags/default/da39a3ee5e6b4b0d3255bfef95601890afd80709
+	@${MKDIR} "${OBJECTDIR}/_ext/1606259981" 
+	@${RM} ${OBJECTDIR}/_ext/1606259981/HVCT_121_MASTER_INITIALIZATION.o.d 
+	@${RM} ${OBJECTDIR}/_ext/1606259981/HVCT_121_MASTER_INITIALIZATION.o 
+	${MP_CC} $(MP_EXTRA_CC_PRE)  ../../HVCT_121_MASTER_C_FILES/HVCT_121_MASTER_INITIALIZATION.c  -o ${OBJECTDIR}/_ext/1606259981/HVCT_121_MASTER_INITIALIZATION.o  -c -mcpu=$(MP_PROCESSOR_OPTION)  -MP -MMD -MF "${OBJECTDIR}/_ext/1606259981/HVCT_121_MASTER_INITIALIZATION.o.d"      -g -D__DEBUG -D__MPLAB_DEBUGGER_ICD4=1  -mno-eds-warn  -omf=elf -DXPRJ_default=$(CND_CONF)    $(COMPARISON_BUILD)  -mlarge-code -msmall-data -O0 -msmart-io=1 -Wall -msfr-warn=off   
+	
+${OBJECTDIR}/_ext/1606259981/HVCT_121_MASTER_ISR.o: ../../HVCT_121_MASTER_C_FILES/HVCT_121_MASTER_ISR.c  .generated_files/flags/default/67e740e09546c8db906c0826adf70449e253ad81 .generated_files/flags/default/da39a3ee5e6b4b0d3255bfef95601890afd80709
+	@${MKDIR} "${OBJECTDIR}/_ext/1606259981" 
+	@${RM} ${OBJECTDIR}/_ext/1606259981/HVCT_121_MASTER_ISR.o.d 
+	@${RM} ${OBJECTDIR}/_ext/1606259981/HVCT_121_MASTER_ISR.o 
+	${MP_CC} $(MP_EXTRA_CC_PRE)  ../../HVCT_121_MASTER_C_FILES/HVCT_121_MASTER_ISR.c  -o ${OBJECTDIR}/_ext/1606259981/HVCT_121_MASTER_ISR.o  -c -mcpu=$(MP_PROCESSOR_OPTION)  -MP -MMD -MF "${OBJECTDIR}/_ext/1606259981/HVCT_121_MASTER_ISR.o.d"      -g -D__DEBUG -D__MPLAB_DEBUGGER_ICD4=1  -mno-eds-warn  -omf=elf -DXPRJ_default=$(CND_CONF)    $(COMPARISON_BUILD)  -mlarge-code -msmall-data -O0 -msmart-io=1 -Wall -msfr-warn=off   
+	
+${OBJECTDIR}/_ext/1606259981/HVCT_121_MASTER_MAIN.o: ../../HVCT_121_MASTER_C_FILES/HVCT_121_MASTER_MAIN.c  .generated_files/flags/default/de600f6d8145e4c66e77429ed86daa8514b0b7e4 .generated_files/flags/default/da39a3ee5e6b4b0d3255bfef95601890afd80709
+	@${MKDIR} "${OBJECTDIR}/_ext/1606259981" 
+	@${RM} ${OBJECTDIR}/_ext/1606259981/HVCT_121_MASTER_MAIN.o.d 
+	@${RM} ${OBJECTDIR}/_ext/1606259981/HVCT_121_MASTER_MAIN.o 
+	${MP_CC} $(MP_EXTRA_CC_PRE)  ../../HVCT_121_MASTER_C_FILES/HVCT_121_MASTER_MAIN.c  -o ${OBJECTDIR}/_ext/1606259981/HVCT_121_MASTER_MAIN.o  -c -mcpu=$(MP_PROCESSOR_OPTION)  -MP -MMD -MF "${OBJECTDIR}/_ext/1606259981/HVCT_121_MASTER_MAIN.o.d"      -g -D__DEBUG -D__MPLAB_DEBUGGER_ICD4=1  -mno-eds-warn  -omf=elf -DXPRJ_default=$(CND_CONF)    $(COMPARISON_BUILD)  -mlarge-code -msmall-data -O0 -msmart-io=1 -Wall -msfr-warn=off   
+	
+${OBJECTDIR}/_ext/1606259981/CLOCK.o: ../../HVCT_121_MASTER_C_FILES/CLOCK.c  .generated_files/flags/default/22aefe2b12f45fb427ca23e917506b719ec40996 .generated_files/flags/default/da39a3ee5e6b4b0d3255bfef95601890afd80709
+	@${MKDIR} "${OBJECTDIR}/_ext/1606259981" 
+	@${RM} ${OBJECTDIR}/_ext/1606259981/CLOCK.o.d 
+	@${RM} ${OBJECTDIR}/_ext/1606259981/CLOCK.o 
+	${MP_CC} $(MP_EXTRA_CC_PRE)  ../../HVCT_121_MASTER_C_FILES/CLOCK.c  -o ${OBJECTDIR}/_ext/1606259981/CLOCK.o  -c -mcpu=$(MP_PROCESSOR_OPTION)  -MP -MMD -MF "${OBJECTDIR}/_ext/1606259981/CLOCK.o.d"      -g -D__DEBUG -D__MPLAB_DEBUGGER_ICD4=1  -mno-eds-warn  -omf=elf -DXPRJ_default=$(CND_CONF)    $(COMPARISON_BUILD)  -mlarge-code -msmall-data -O0 -msmart-io=1 -Wall -msfr-warn=off   
+	
+${OBJECTDIR}/_ext/1606259981/HVCT_121_MASTER_I2C_FUNCTIONS.o: ../../HVCT_121_MASTER_C_FILES/HVCT_121_MASTER_I2C_FUNCTIONS.c  .generated_files/flags/default/e500754e1cce5659760042efe7e670773ea969aa .generated_files/flags/default/da39a3ee5e6b4b0d3255bfef95601890afd80709
+	@${MKDIR} "${OBJECTDIR}/_ext/1606259981" 
+	@${RM} ${OBJECTDIR}/_ext/1606259981/HVCT_121_MASTER_I2C_FUNCTIONS.o.d 
+	@${RM} ${OBJECTDIR}/_ext/1606259981/HVCT_121_MASTER_I2C_FUNCTIONS.o 
+	${MP_CC} $(MP_EXTRA_CC_PRE)  ../../HVCT_121_MASTER_C_FILES/HVCT_121_MASTER_I2C_FUNCTIONS.c  -o ${OBJECTDIR}/_ext/1606259981/HVCT_121_MASTER_I2C_FUNCTIONS.o  -c -mcpu=$(MP_PROCESSOR_OPTION)  -MP -MMD -MF "${OBJECTDIR}/_ext/1606259981/HVCT_121_MASTER_I2C_FUNCTIONS.o.d"      -g -D__DEBUG -D__MPLAB_DEBUGGER_ICD4=1  -mno-eds-warn  -omf=elf -DXPRJ_default=$(CND_CONF)    $(COMPARISON_BUILD)  -mlarge-code -msmall-data -O0 -msmart-io=1 -Wall -msfr-warn=off   
+	
+${OBJECTDIR}/_ext/1606259981/HVCT_121_MASTER_LCD_DISPLAYS_FUNCTIONS.o: ../../HVCT_121_MASTER_C_FILES/HVCT_121_MASTER_LCD_DISPLAYS_FUNCTIONS.c  .generated_files/flags/default/dfe8822108c0f0669edf7fddc171c3f1bfda30da .generated_files/flags/default/da39a3ee5e6b4b0d3255bfef95601890afd80709
+	@${MKDIR} "${OBJECTDIR}/_ext/1606259981" 
+	@${RM} ${OBJECTDIR}/_ext/1606259981/HVCT_121_MASTER_LCD_DISPLAYS_FUNCTIONS.o.d 
+	@${RM} ${OBJECTDIR}/_ext/1606259981/HVCT_121_MASTER_LCD_DISPLAYS_FUNCTIONS.o 
+	${MP_CC} $(MP_EXTRA_CC_PRE)  ../../HVCT_121_MASTER_C_FILES/HVCT_121_MASTER_LCD_DISPLAYS_FUNCTIONS.c  -o ${OBJECTDIR}/_ext/1606259981/HVCT_121_MASTER_LCD_DISPLAYS_FUNCTIONS.o  -c -mcpu=$(MP_PROCESSOR_OPTION)  -MP -MMD -MF "${OBJECTDIR}/_ext/1606259981/HVCT_121_MASTER_LCD_DISPLAYS_FUNCTIONS.o.d"      -g -D__DEBUG -D__MPLAB_DEBUGGER_ICD4=1  -mno-eds-warn  -omf=elf -DXPRJ_default=$(CND_CONF)    $(COMPARISON_BUILD)  -mlarge-code -msmall-data -O0 -msmart-io=1 -Wall -msfr-warn=off   
+	
+${OBJECTDIR}/_ext/1606259981/HVCT_121_MASTER_VERSION.o: ../../HVCT_121_MASTER_C_FILES/HVCT_121_MASTER_VERSION.c  .generated_files/flags/default/49539bc2004f49e9833429a4339bed95bb9bf6b3 .generated_files/flags/default/da39a3ee5e6b4b0d3255bfef95601890afd80709
+	@${MKDIR} "${OBJECTDIR}/_ext/1606259981" 
+	@${RM} ${OBJECTDIR}/_ext/1606259981/HVCT_121_MASTER_VERSION.o.d 
+	@${RM} ${OBJECTDIR}/_ext/1606259981/HVCT_121_MASTER_VERSION.o 
+	${MP_CC} $(MP_EXTRA_CC_PRE)  ../../HVCT_121_MASTER_C_FILES/HVCT_121_MASTER_VERSION.c  -o ${OBJECTDIR}/_ext/1606259981/HVCT_121_MASTER_VERSION.o  -c -mcpu=$(MP_PROCESSOR_OPTION)  -MP -MMD -MF "${OBJECTDIR}/_ext/1606259981/HVCT_121_MASTER_VERSION.o.d"      -g -D__DEBUG -D__MPLAB_DEBUGGER_ICD4=1  -mno-eds-warn  -omf=elf -DXPRJ_default=$(CND_CONF)    $(COMPARISON_BUILD)  -mlarge-code -msmall-data -O0 -msmart-io=1 -Wall -msfr-warn=off   
+	
+${OBJECTDIR}/_ext/1606259981/HVCT_121_MASTER_STANDARD_PERIPHERALS.o: ../../HVCT_121_MASTER_C_FILES/HVCT_121_MASTER_STANDARD_PERIPHERALS.c  .generated_files/flags/default/4ac354533464bf9f233329829a2dbd6681841193 .generated_files/flags/default/da39a3ee5e6b4b0d3255bfef95601890afd80709
+	@${MKDIR} "${OBJECTDIR}/_ext/1606259981" 
+	@${RM} ${OBJECTDIR}/_ext/1606259981/HVCT_121_MASTER_STANDARD_PERIPHERALS.o.d 
+	@${RM} ${OBJECTDIR}/_ext/1606259981/HVCT_121_MASTER_STANDARD_PERIPHERALS.o 
+	${MP_CC} $(MP_EXTRA_CC_PRE)  ../../HVCT_121_MASTER_C_FILES/HVCT_121_MASTER_STANDARD_PERIPHERALS.c  -o ${OBJECTDIR}/_ext/1606259981/HVCT_121_MASTER_STANDARD_PERIPHERALS.o  -c -mcpu=$(MP_PROCESSOR_OPTION)  -MP -MMD -MF "${OBJECTDIR}/_ext/1606259981/HVCT_121_MASTER_STANDARD_PERIPHERALS.o.d"      -g -D__DEBUG -D__MPLAB_DEBUGGER_ICD4=1  -mno-eds-warn  -omf=elf -DXPRJ_default=$(CND_CONF)    $(COMPARISON_BUILD)  -mlarge-code -msmall-data -O0 -msmart-io=1 -Wall -msfr-warn=off   
+	
+${OBJECTDIR}/_ext/1606259981/HVCT_121_MASTER_STANDARD_FUNCTIONS.o: ../../HVCT_121_MASTER_C_FILES/HVCT_121_MASTER_STANDARD_FUNCTIONS.c  .generated_files/flags/default/84c1fbd32682a10c20e1435e6a91dfbe12d4ba20 .generated_files/flags/default/da39a3ee5e6b4b0d3255bfef95601890afd80709
+	@${MKDIR} "${OBJECTDIR}/_ext/1606259981" 
+	@${RM} ${OBJECTDIR}/_ext/1606259981/HVCT_121_MASTER_STANDARD_FUNCTIONS.o.d 
+	@${RM} ${OBJECTDIR}/_ext/1606259981/HVCT_121_MASTER_STANDARD_FUNCTIONS.o 
+	${MP_CC} $(MP_EXTRA_CC_PRE)  ../../HVCT_121_MASTER_C_FILES/HVCT_121_MASTER_STANDARD_FUNCTIONS.c  -o ${OBJECTDIR}/_ext/1606259981/HVCT_121_MASTER_STANDARD_FUNCTIONS.o  -c -mcpu=$(MP_PROCESSOR_OPTION)  -MP -MMD -MF "${OBJECTDIR}/_ext/1606259981/HVCT_121_MASTER_STANDARD_FUNCTIONS.o.d"      -g -D__DEBUG -D__MPLAB_DEBUGGER_ICD4=1  -mno-eds-warn  -omf=elf -DXPRJ_default=$(CND_CONF)    $(COMPARISON_BUILD)  -mlarge-code -msmall-data -O0 -msmart-io=1 -Wall -msfr-warn=off   
+	
+${OBJECTDIR}/_ext/1606259981/HVCT_121_MASTER_ANALYSE.o: ../../HVCT_121_MASTER_C_FILES/HVCT_121_MASTER_ANALYSE.c  .generated_files/flags/default/b05ecf4af3c2ad1e5bb81073a8056345289c81be .generated_files/flags/default/da39a3ee5e6b4b0d3255bfef95601890afd80709
+	@${MKDIR} "${OBJECTDIR}/_ext/1606259981" 
+	@${RM} ${OBJECTDIR}/_ext/1606259981/HVCT_121_MASTER_ANALYSE.o.d 
+	@${RM} ${OBJECTDIR}/_ext/1606259981/HVCT_121_MASTER_ANALYSE.o 
+	${MP_CC} $(MP_EXTRA_CC_PRE)  ../../HVCT_121_MASTER_C_FILES/HVCT_121_MASTER_ANALYSE.c  -o ${OBJECTDIR}/_ext/1606259981/HVCT_121_MASTER_ANALYSE.o  -c -mcpu=$(MP_PROCESSOR_OPTION)  -MP -MMD -MF "${OBJECTDIR}/_ext/1606259981/HVCT_121_MASTER_ANALYSE.o.d"      -g -D__DEBUG -D__MPLAB_DEBUGGER_ICD4=1  -mno-eds-warn  -omf=elf -DXPRJ_default=$(CND_CONF)    $(COMPARISON_BUILD)  -mlarge-code -msmall-data -O0 -msmart-io=1 -Wall -msfr-warn=off   
+	
+${OBJECTDIR}/_ext/1606259981/HVCT_121_MASTER_STATE_DIAGRAM.o: ../../HVCT_121_MASTER_C_FILES/HVCT_121_MASTER_STATE_DIAGRAM.c  .generated_files/flags/default/5cf41cfbb4bb855f90d4b46f934ba61805ec5337 .generated_files/flags/default/da39a3ee5e6b4b0d3255bfef95601890afd80709
+	@${MKDIR} "${OBJECTDIR}/_ext/1606259981" 
+	@${RM} ${OBJECTDIR}/_ext/1606259981/HVCT_121_MASTER_STATE_DIAGRAM.o.d 
+	@${RM} ${OBJECTDIR}/_ext/1606259981/HVCT_121_MASTER_STATE_DIAGRAM.o 
+	${MP_CC} $(MP_EXTRA_CC_PRE)  ../../HVCT_121_MASTER_C_FILES/HVCT_121_MASTER_STATE_DIAGRAM.c  -o ${OBJECTDIR}/_ext/1606259981/HVCT_121_MASTER_STATE_DIAGRAM.o  -c -mcpu=$(MP_PROCESSOR_OPTION)  -MP -MMD -MF "${OBJECTDIR}/_ext/1606259981/HVCT_121_MASTER_STATE_DIAGRAM.o.d"      -g -D__DEBUG -D__MPLAB_DEBUGGER_ICD4=1  -mno-eds-warn  -omf=elf -DXPRJ_default=$(CND_CONF)    $(COMPARISON_BUILD)  -mlarge-code -msmall-data -O0 -msmart-io=1 -Wall -msfr-warn=off   
+	
+${OBJECTDIR}/_ext/1606259981/HVCT_121_MASTER_TONE.o: ../../HVCT_121_MASTER_C_FILES/HVCT_121_MASTER_TONE.c  .generated_files/flags/default/b8ffc698a6888989c0cc94829054f3d8aa5f03fe .generated_files/flags/default/da39a3ee5e6b4b0d3255bfef95601890afd80709
+	@${MKDIR} "${OBJECTDIR}/_ext/1606259981" 
+	@${RM} ${OBJECTDIR}/_ext/1606259981/HVCT_121_MASTER_TONE.o.d 
+	@${RM} ${OBJECTDIR}/_ext/1606259981/HVCT_121_MASTER_TONE.o 
+	${MP_CC} $(MP_EXTRA_CC_PRE)  ../../HVCT_121_MASTER_C_FILES/HVCT_121_MASTER_TONE.c  -o ${OBJECTDIR}/_ext/1606259981/HVCT_121_MASTER_TONE.o  -c -mcpu=$(MP_PROCESSOR_OPTION)  -MP -MMD -MF "${OBJECTDIR}/_ext/1606259981/HVCT_121_MASTER_TONE.o.d"      -g -D__DEBUG -D__MPLAB_DEBUGGER_ICD4=1  -mno-eds-warn  -omf=elf -DXPRJ_default=$(CND_CONF)    $(COMPARISON_BUILD)  -mlarge-code -msmall-data -O0 -msmart-io=1 -Wall -msfr-warn=off   
+	
+else
+${OBJECTDIR}/_ext/1606259981/DELAY.o: ../../HVCT_121_MASTER_C_FILES/DELAY.c  .generated_files/flags/default/e2a1c9825bdcbcf0767e23c7bec80887835bc48e .generated_files/flags/default/da39a3ee5e6b4b0d3255bfef95601890afd80709
+	@${MKDIR} "${OBJECTDIR}/_ext/1606259981" 
+	@${RM} ${OBJECTDIR}/_ext/1606259981/DELAY.o.d 
+	@${RM} ${OBJECTDIR}/_ext/1606259981/DELAY.o 
+	${MP_CC} $(MP_EXTRA_CC_PRE)  ../../HVCT_121_MASTER_C_FILES/DELAY.c  -o ${OBJECTDIR}/_ext/1606259981/DELAY.o  -c -mcpu=$(MP_PROCESSOR_OPTION)  -MP -MMD -MF "${OBJECTDIR}/_ext/1606259981/DELAY.o.d"      -mno-eds-warn  -g -omf=elf -DXPRJ_default=$(CND_CONF)    $(COMPARISON_BUILD)  -mlarge-code -msmall-data -O0 -msmart-io=1 -Wall -msfr-warn=off   
+	
+${OBJECTDIR}/_ext/1606259981/HVCT_121_MASTER_INITIALIZATION.o: ../../HVCT_121_MASTER_C_FILES/HVCT_121_MASTER_INITIALIZATION.c  .generated_files/flags/default/534356d0705ed75bd41eb0dfe05fb4df7d894040 .generated_files/flags/default/da39a3ee5e6b4b0d3255bfef95601890afd80709
+	@${MKDIR} "${OBJECTDIR}/_ext/1606259981" 
+	@${RM} ${OBJECTDIR}/_ext/1606259981/HVCT_121_MASTER_INITIALIZATION.o.d 
+	@${RM} ${OBJECTDIR}/_ext/1606259981/HVCT_121_MASTER_INITIALIZATION.o 
+	${MP_CC} $(MP_EXTRA_CC_PRE)  ../../HVCT_121_MASTER_C_FILES/HVCT_121_MASTER_INITIALIZATION.c  -o ${OBJECTDIR}/_ext/1606259981/HVCT_121_MASTER_INITIALIZATION.o  -c -mcpu=$(MP_PROCESSOR_OPTION)  -MP -MMD -MF "${OBJECTDIR}/_ext/1606259981/HVCT_121_MASTER_INITIALIZATION.o.d"      -mno-eds-warn  -g -omf=elf -DXPRJ_default=$(CND_CONF)    $(COMPARISON_BUILD)  -mlarge-code -msmall-data -O0 -msmart-io=1 -Wall -msfr-warn=off   
+	
+${OBJECTDIR}/_ext/1606259981/HVCT_121_MASTER_ISR.o: ../../HVCT_121_MASTER_C_FILES/HVCT_121_MASTER_ISR.c  .generated_files/flags/default/6b0dae6311e4b463b001eb8759615d74d591b936 .generated_files/flags/default/da39a3ee5e6b4b0d3255bfef95601890afd80709
+	@${MKDIR} "${OBJECTDIR}/_ext/1606259981" 
+	@${RM} ${OBJECTDIR}/_ext/1606259981/HVCT_121_MASTER_ISR.o.d 
+	@${RM} ${OBJECTDIR}/_ext/1606259981/HVCT_121_MASTER_ISR.o 
+	${MP_CC} $(MP_EXTRA_CC_PRE)  ../../HVCT_121_MASTER_C_FILES/HVCT_121_MASTER_ISR.c  -o ${OBJECTDIR}/_ext/1606259981/HVCT_121_MASTER_ISR.o  -c -mcpu=$(MP_PROCESSOR_OPTION)  -MP -MMD -MF "${OBJECTDIR}/_ext/1606259981/HVCT_121_MASTER_ISR.o.d"      -mno-eds-warn  -g -omf=elf -DXPRJ_default=$(CND_CONF)    $(COMPARISON_BUILD)  -mlarge-code -msmall-data -O0 -msmart-io=1 -Wall -msfr-warn=off   
+	
+${OBJECTDIR}/_ext/1606259981/HVCT_121_MASTER_MAIN.o: ../../HVCT_121_MASTER_C_FILES/HVCT_121_MASTER_MAIN.c  .generated_files/flags/default/24becb333454811103001bda2c3ec3dfe343935a .generated_files/flags/default/da39a3ee5e6b4b0d3255bfef95601890afd80709
+	@${MKDIR} "${OBJECTDIR}/_ext/1606259981" 
+	@${RM} ${OBJECTDIR}/_ext/1606259981/HVCT_121_MASTER_MAIN.o.d 
+	@${RM} ${OBJECTDIR}/_ext/1606259981/HVCT_121_MASTER_MAIN.o 
+	${MP_CC} $(MP_EXTRA_CC_PRE)  ../../HVCT_121_MASTER_C_FILES/HVCT_121_MASTER_MAIN.c  -o ${OBJECTDIR}/_ext/1606259981/HVCT_121_MASTER_MAIN.o  -c -mcpu=$(MP_PROCESSOR_OPTION)  -MP -MMD -MF "${OBJECTDIR}/_ext/1606259981/HVCT_121_MASTER_MAIN.o.d"      -mno-eds-warn  -g -omf=elf -DXPRJ_default=$(CND_CONF)    $(COMPARISON_BUILD)  -mlarge-code -msmall-data -O0 -msmart-io=1 -Wall -msfr-warn=off   
+	
+${OBJECTDIR}/_ext/1606259981/CLOCK.o: ../../HVCT_121_MASTER_C_FILES/CLOCK.c  .generated_files/flags/default/d10f3a32f1e008b86f9ddd5f21c580d7a4e04a8 .generated_files/flags/default/da39a3ee5e6b4b0d3255bfef95601890afd80709
+	@${MKDIR} "${OBJECTDIR}/_ext/1606259981" 
+	@${RM} ${OBJECTDIR}/_ext/1606259981/CLOCK.o.d 
+	@${RM} ${OBJECTDIR}/_ext/1606259981/CLOCK.o 
+	${MP_CC} $(MP_EXTRA_CC_PRE)  ../../HVCT_121_MASTER_C_FILES/CLOCK.c  -o ${OBJECTDIR}/_ext/1606259981/CLOCK.o  -c -mcpu=$(MP_PROCESSOR_OPTION)  -MP -MMD -MF "${OBJECTDIR}/_ext/1606259981/CLOCK.o.d"      -mno-eds-warn  -g -omf=elf -DXPRJ_default=$(CND_CONF)    $(COMPARISON_BUILD)  -mlarge-code -msmall-data -O0 -msmart-io=1 -Wall -msfr-warn=off   
+	
+${OBJECTDIR}/_ext/1606259981/HVCT_121_MASTER_I2C_FUNCTIONS.o: ../../HVCT_121_MASTER_C_FILES/HVCT_121_MASTER_I2C_FUNCTIONS.c  .generated_files/flags/default/c2293aad36fae0843f79cf7a5c270b496a63fbb5 .generated_files/flags/default/da39a3ee5e6b4b0d3255bfef95601890afd80709
+	@${MKDIR} "${OBJECTDIR}/_ext/1606259981" 
+	@${RM} ${OBJECTDIR}/_ext/1606259981/HVCT_121_MASTER_I2C_FUNCTIONS.o.d 
+	@${RM} ${OBJECTDIR}/_ext/1606259981/HVCT_121_MASTER_I2C_FUNCTIONS.o 
+	${MP_CC} $(MP_EXTRA_CC_PRE)  ../../HVCT_121_MASTER_C_FILES/HVCT_121_MASTER_I2C_FUNCTIONS.c  -o ${OBJECTDIR}/_ext/1606259981/HVCT_121_MASTER_I2C_FUNCTIONS.o  -c -mcpu=$(MP_PROCESSOR_OPTION)  -MP -MMD -MF "${OBJECTDIR}/_ext/1606259981/HVCT_121_MASTER_I2C_FUNCTIONS.o.d"      -mno-eds-warn  -g -omf=elf -DXPRJ_default=$(CND_CONF)    $(COMPARISON_BUILD)  -mlarge-code -msmall-data -O0 -msmart-io=1 -Wall -msfr-warn=off   
+	
+${OBJECTDIR}/_ext/1606259981/HVCT_121_MASTER_LCD_DISPLAYS_FUNCTIONS.o: ../../HVCT_121_MASTER_C_FILES/HVCT_121_MASTER_LCD_DISPLAYS_FUNCTIONS.c  .generated_files/flags/default/ded63a6d166ff8413aa43b9a38e65cb23b1070f2 .generated_files/flags/default/da39a3ee5e6b4b0d3255bfef95601890afd80709
+	@${MKDIR} "${OBJECTDIR}/_ext/1606259981" 
+	@${RM} ${OBJECTDIR}/_ext/1606259981/HVCT_121_MASTER_LCD_DISPLAYS_FUNCTIONS.o.d 
+	@${RM} ${OBJECTDIR}/_ext/1606259981/HVCT_121_MASTER_LCD_DISPLAYS_FUNCTIONS.o 
+	${MP_CC} $(MP_EXTRA_CC_PRE)  ../../HVCT_121_MASTER_C_FILES/HVCT_121_MASTER_LCD_DISPLAYS_FUNCTIONS.c  -o ${OBJECTDIR}/_ext/1606259981/HVCT_121_MASTER_LCD_DISPLAYS_FUNCTIONS.o  -c -mcpu=$(MP_PROCESSOR_OPTION)  -MP -MMD -MF "${OBJECTDIR}/_ext/1606259981/HVCT_121_MASTER_LCD_DISPLAYS_FUNCTIONS.o.d"      -mno-eds-warn  -g -omf=elf -DXPRJ_default=$(CND_CONF)    $(COMPARISON_BUILD)  -mlarge-code -msmall-data -O0 -msmart-io=1 -Wall -msfr-warn=off   
+	
+${OBJECTDIR}/_ext/1606259981/HVCT_121_MASTER_VERSION.o: ../../HVCT_121_MASTER_C_FILES/HVCT_121_MASTER_VERSION.c  .generated_files/flags/default/510f6d2e1aa72cc9bb9b187d6d296f1b144ec44b .generated_files/flags/default/da39a3ee5e6b4b0d3255bfef95601890afd80709
+	@${MKDIR} "${OBJECTDIR}/_ext/1606259981" 
+	@${RM} ${OBJECTDIR}/_ext/1606259981/HVCT_121_MASTER_VERSION.o.d 
+	@${RM} ${OBJECTDIR}/_ext/1606259981/HVCT_121_MASTER_VERSION.o 
+	${MP_CC} $(MP_EXTRA_CC_PRE)  ../../HVCT_121_MASTER_C_FILES/HVCT_121_MASTER_VERSION.c  -o ${OBJECTDIR}/_ext/1606259981/HVCT_121_MASTER_VERSION.o  -c -mcpu=$(MP_PROCESSOR_OPTION)  -MP -MMD -MF "${OBJECTDIR}/_ext/1606259981/HVCT_121_MASTER_VERSION.o.d"      -mno-eds-warn  -g -omf=elf -DXPRJ_default=$(CND_CONF)    $(COMPARISON_BUILD)  -mlarge-code -msmall-data -O0 -msmart-io=1 -Wall -msfr-warn=off   
+	
+${OBJECTDIR}/_ext/1606259981/HVCT_121_MASTER_STANDARD_PERIPHERALS.o: ../../HVCT_121_MASTER_C_FILES/HVCT_121_MASTER_STANDARD_PERIPHERALS.c  .generated_files/flags/default/a62f06209e24b09133f1852f7146194542ec444c .generated_files/flags/default/da39a3ee5e6b4b0d3255bfef95601890afd80709
+	@${MKDIR} "${OBJECTDIR}/_ext/1606259981" 
+	@${RM} ${OBJECTDIR}/_ext/1606259981/HVCT_121_MASTER_STANDARD_PERIPHERALS.o.d 
+	@${RM} ${OBJECTDIR}/_ext/1606259981/HVCT_121_MASTER_STANDARD_PERIPHERALS.o 
+	${MP_CC} $(MP_EXTRA_CC_PRE)  ../../HVCT_121_MASTER_C_FILES/HVCT_121_MASTER_STANDARD_PERIPHERALS.c  -o ${OBJECTDIR}/_ext/1606259981/HVCT_121_MASTER_STANDARD_PERIPHERALS.o  -c -mcpu=$(MP_PROCESSOR_OPTION)  -MP -MMD -MF "${OBJECTDIR}/_ext/1606259981/HVCT_121_MASTER_STANDARD_PERIPHERALS.o.d"      -mno-eds-warn  -g -omf=elf -DXPRJ_default=$(CND_CONF)    $(COMPARISON_BUILD)  -mlarge-code -msmall-data -O0 -msmart-io=1 -Wall -msfr-warn=off   
+	
+${OBJECTDIR}/_ext/1606259981/HVCT_121_MASTER_STANDARD_FUNCTIONS.o: ../../HVCT_121_MASTER_C_FILES/HVCT_121_MASTER_STANDARD_FUNCTIONS.c  .generated_files/flags/default/df1003783a3d4830ec746d7c025cd9ba3f5ea709 .generated_files/flags/default/da39a3ee5e6b4b0d3255bfef95601890afd80709
+	@${MKDIR} "${OBJECTDIR}/_ext/1606259981" 
+	@${RM} ${OBJECTDIR}/_ext/1606259981/HVCT_121_MASTER_STANDARD_FUNCTIONS.o.d 
+	@${RM} ${OBJECTDIR}/_ext/1606259981/HVCT_121_MASTER_STANDARD_FUNCTIONS.o 
+	${MP_CC} $(MP_EXTRA_CC_PRE)  ../../HVCT_121_MASTER_C_FILES/HVCT_121_MASTER_STANDARD_FUNCTIONS.c  -o ${OBJECTDIR}/_ext/1606259981/HVCT_121_MASTER_STANDARD_FUNCTIONS.o  -c -mcpu=$(MP_PROCESSOR_OPTION)  -MP -MMD -MF "${OBJECTDIR}/_ext/1606259981/HVCT_121_MASTER_STANDARD_FUNCTIONS.o.d"      -mno-eds-warn  -g -omf=elf -DXPRJ_default=$(CND_CONF)    $(COMPARISON_BUILD)  -mlarge-code -msmall-data -O0 -msmart-io=1 -Wall -msfr-warn=off   
+	
+${OBJECTDIR}/_ext/1606259981/HVCT_121_MASTER_ANALYSE.o: ../../HVCT_121_MASTER_C_FILES/HVCT_121_MASTER_ANALYSE.c  .generated_files/flags/default/5c6f03889aa6cc6bd4a2d04f2862eda76ca32f45 .generated_files/flags/default/da39a3ee5e6b4b0d3255bfef95601890afd80709
+	@${MKDIR} "${OBJECTDIR}/_ext/1606259981" 
+	@${RM} ${OBJECTDIR}/_ext/1606259981/HVCT_121_MASTER_ANALYSE.o.d 
+	@${RM} ${OBJECTDIR}/_ext/1606259981/HVCT_121_MASTER_ANALYSE.o 
+	${MP_CC} $(MP_EXTRA_CC_PRE)  ../../HVCT_121_MASTER_C_FILES/HVCT_121_MASTER_ANALYSE.c  -o ${OBJECTDIR}/_ext/1606259981/HVCT_121_MASTER_ANALYSE.o  -c -mcpu=$(MP_PROCESSOR_OPTION)  -MP -MMD -MF "${OBJECTDIR}/_ext/1606259981/HVCT_121_MASTER_ANALYSE.o.d"      -mno-eds-warn  -g -omf=elf -DXPRJ_default=$(CND_CONF)    $(COMPARISON_BUILD)  -mlarge-code -msmall-data -O0 -msmart-io=1 -Wall -msfr-warn=off   
+	
+${OBJECTDIR}/_ext/1606259981/HVCT_121_MASTER_STATE_DIAGRAM.o: ../../HVCT_121_MASTER_C_FILES/HVCT_121_MASTER_STATE_DIAGRAM.c  .generated_files/flags/default/bbdfca4f4e1db944d9fcfac36300b699f4114fbf .generated_files/flags/default/da39a3ee5e6b4b0d3255bfef95601890afd80709
+	@${MKDIR} "${OBJECTDIR}/_ext/1606259981" 
+	@${RM} ${OBJECTDIR}/_ext/1606259981/HVCT_121_MASTER_STATE_DIAGRAM.o.d 
+	@${RM} ${OBJECTDIR}/_ext/1606259981/HVCT_121_MASTER_STATE_DIAGRAM.o 
+	${MP_CC} $(MP_EXTRA_CC_PRE)  ../../HVCT_121_MASTER_C_FILES/HVCT_121_MASTER_STATE_DIAGRAM.c  -o ${OBJECTDIR}/_ext/1606259981/HVCT_121_MASTER_STATE_DIAGRAM.o  -c -mcpu=$(MP_PROCESSOR_OPTION)  -MP -MMD -MF "${OBJECTDIR}/_ext/1606259981/HVCT_121_MASTER_STATE_DIAGRAM.o.d"      -mno-eds-warn  -g -omf=elf -DXPRJ_default=$(CND_CONF)    $(COMPARISON_BUILD)  -mlarge-code -msmall-data -O0 -msmart-io=1 -Wall -msfr-warn=off   
+	
+${OBJECTDIR}/_ext/1606259981/HVCT_121_MASTER_TONE.o: ../../HVCT_121_MASTER_C_FILES/HVCT_121_MASTER_TONE.c  .generated_files/flags/default/39b165d1700bd65ef0bc855b06a5b030ec72af79 .generated_files/flags/default/da39a3ee5e6b4b0d3255bfef95601890afd80709
+	@${MKDIR} "${OBJECTDIR}/_ext/1606259981" 
+	@${RM} ${OBJECTDIR}/_ext/1606259981/HVCT_121_MASTER_TONE.o.d 
+	@${RM} ${OBJECTDIR}/_ext/1606259981/HVCT_121_MASTER_TONE.o 
+	${MP_CC} $(MP_EXTRA_CC_PRE)  ../../HVCT_121_MASTER_C_FILES/HVCT_121_MASTER_TONE.c  -o ${OBJECTDIR}/_ext/1606259981/HVCT_121_MASTER_TONE.o  -c -mcpu=$(MP_PROCESSOR_OPTION)  -MP -MMD -MF "${OBJECTDIR}/_ext/1606259981/HVCT_121_MASTER_TONE.o.d"      -mno-eds-warn  -g -omf=elf -DXPRJ_default=$(CND_CONF)    $(COMPARISON_BUILD)  -mlarge-code -msmall-data -O0 -msmart-io=1 -Wall -msfr-warn=off   
+	
+endif
+
+# ------------------------------------------------------------------------------------
+# Rules for buildStep: assemble
+ifeq ($(TYPE_IMAGE), DEBUG_RUN)
+else
+endif
+
+# ------------------------------------------------------------------------------------
+# Rules for buildStep: assemblePreproc
+ifeq ($(TYPE_IMAGE), DEBUG_RUN)
+else
+endif
+
+# ------------------------------------------------------------------------------------
+# Rules for buildStep: link
+ifeq ($(TYPE_IMAGE), DEBUG_RUN)
+${DISTDIR}/HVCT_121_MASTER.X.${IMAGE_TYPE}.${OUTPUT_SUFFIX}: ${OBJECTFILES}  nbproject/Makefile-${CND_CONF}.mk    
+	@${MKDIR} ${DISTDIR} 
+	${MP_CC} $(MP_EXTRA_LD_PRE)  -o ${DISTDIR}/HVCT_121_MASTER.X.${IMAGE_TYPE}.${OUTPUT_SUFFIX}  ${OBJECTFILES_QUOTED_IF_SPACED}      -mcpu=$(MP_PROCESSOR_OPTION)        -D__DEBUG=__DEBUG -D__MPLAB_DEBUGGER_ICD4=1  -omf=elf -DXPRJ_default=$(CND_CONF)    $(COMPARISON_BUILD)   -mreserve=data@0x800:0x81B -mreserve=data@0x81C:0x81D -mreserve=data@0x81E:0x81F -mreserve=data@0x820:0x821 -mreserve=data@0x822:0x823 -mreserve=data@0x824:0x827 -mreserve=data@0x82A:0x84F   -Wl,--local-stack,,--defsym=__MPLAB_BUILD=1,--defsym=__MPLAB_DEBUG=1,--defsym=__DEBUG=1,-D__DEBUG=__DEBUG,--defsym=__MPLAB_DEBUGGER_ICD4=1,$(MP_LINKER_FILE_OPTION),--stack=16,--check-sections,--data-init,--pack-data,--handles,--isr,--no-gc-sections,--fill-upper=0,--stackguard=16,--no-force-link,--smart-io,-Map="${DISTDIR}/${PROJECTNAME}.${IMAGE_TYPE}.map",--report-mem,--memorysummary,${DISTDIR}/memoryfile.xml$(MP_EXTRA_LD_POST)  
+	
+else
+${DISTDIR}/HVCT_121_MASTER.X.${IMAGE_TYPE}.${OUTPUT_SUFFIX}: ${OBJECTFILES}  nbproject/Makefile-${CND_CONF}.mk   
+	@${MKDIR} ${DISTDIR} 
+	${MP_CC} $(MP_EXTRA_LD_PRE)  -o ${DISTDIR}/HVCT_121_MASTER.X.${IMAGE_TYPE}.${DEBUGGABLE_SUFFIX}  ${OBJECTFILES_QUOTED_IF_SPACED}      -mcpu=$(MP_PROCESSOR_OPTION)        -omf=elf -DXPRJ_default=$(CND_CONF)    $(COMPARISON_BUILD)  -Wl,--local-stack,,--defsym=__MPLAB_BUILD=1,$(MP_LINKER_FILE_OPTION),--stack=16,--check-sections,--data-init,--pack-data,--handles,--isr,--no-gc-sections,--fill-upper=0,--stackguard=16,--no-force-link,--smart-io,-Map="${DISTDIR}/${PROJECTNAME}.${IMAGE_TYPE}.map",--report-mem,--memorysummary,${DISTDIR}/memoryfile.xml$(MP_EXTRA_LD_POST)  
+	${MP_CC_DIR}\\xc16-bin2hex ${DISTDIR}/HVCT_121_MASTER.X.${IMAGE_TYPE}.${DEBUGGABLE_SUFFIX} -a  -omf=elf   
+	
+endif
+
+
+# Subprojects
+.build-subprojects:
+
+
+# Subprojects
+.clean-subprojects:
+
+# Clean Targets
+.clean-conf: ${CLEAN_SUBPROJECTS}
+	${RM} -r ${OBJECTDIR}
+	${RM} -r ${DISTDIR}
+
+# Enable dependency checking
+.dep.inc: .depcheck-impl
+
+DEPFILES=$(wildcard ${POSSIBLE_DEPFILES})
+ifneq (${DEPFILES},)
+include ${DEPFILES}
+endif

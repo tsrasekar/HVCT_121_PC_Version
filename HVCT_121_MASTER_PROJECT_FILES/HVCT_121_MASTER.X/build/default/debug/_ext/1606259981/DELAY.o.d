@@ -1,0 +1,5 @@
+build/default/debug/_ext/1606259981/DELAY.o: \
+ ../../HVCT_121_MASTER_C_FILES/DELAY.c \
+ ../../HVCT_121_MASTER_C_FILES/../HVCT_121_MASTER_H_FILES/clock.h
+
+../../HVCT_121_MASTER_C_FILES/../HVCT_121_MASTER_H_FILES/clock.h:

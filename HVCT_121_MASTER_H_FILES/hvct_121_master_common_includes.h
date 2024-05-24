@@ -1,0 +1,7 @@
+#include "delay.h"
+#include "clock.h"
+#include "hvct_121_master_extern_var.h"
+#include "hvct_121_master_global_defines.h"
+#include "hvct_121_master_initializations.h"
+#include "hvct_121_master_functions_declarations.h"
+#include "hvct_121_master_lcd_messages.h"
